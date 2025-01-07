@@ -43,11 +43,11 @@
         <mxCell id="-NAwhlw-cG3gBcsxiPQz-7" value="圖檔爆掉&lt;div&gt;幾千個零件&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="205" y="290" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1L4MWceTh6y_2CvtbCoj-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-NAwhlw-cG3gBcsxiPQz-9" target="-NAwhlw-cG3gBcsxiPQz-71">
+        <mxCell id="1L4MWceTh6y_2CvtbCoj-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-NAwhlw-cG3gBcsxiPQz-9" target="1L4MWceTh6y_2CvtbCoj-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-NAwhlw-cG3gBcsxiPQz-9" value="合併零件&lt;div&gt;suppress 不重要零件&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="367" y="300" width="120" height="60" as="geometry" />
+        <mxCell id="-NAwhlw-cG3gBcsxiPQz-9" value="合併零件&lt;div&gt;suppress&amp;nbsp;&lt;/div&gt;&lt;div&gt;不重要零件&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="338" y="300" width="84.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-NAwhlw-cG3gBcsxiPQz-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="-NAwhlw-cG3gBcsxiPQz-11" target="-NAwhlw-cG3gBcsxiPQz-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -259,6 +259,12 @@
         </mxCell>
         <mxCell id="1L4MWceTh6y_2CvtbCoj-49" value="幾何原生mesh,&amp;nbsp;&lt;div&gt;重疊比較差異&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="330.75" y="581" width="112.5" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="1L4MWceTh6y_2CvtbCoj-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1L4MWceTh6y_2CvtbCoj-55" target="-NAwhlw-cG3gBcsxiPQz-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1L4MWceTh6y_2CvtbCoj-55" value="大體積零件開始處理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="452" y="301.5" width="69.75" height="57" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
