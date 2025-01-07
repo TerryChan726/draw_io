@@ -15,7 +15,7 @@
         <mxCell id="-NAwhlw-cG3gBcsxiPQz-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-NAwhlw-cG3gBcsxiPQz-3" target="-NAwhlw-cG3gBcsxiPQz-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-NAwhlw-cG3gBcsxiPQz-3" value="&lt;div&gt;處理螺絲,Nut&lt;/div&gt;&lt;div&gt;拿零件R角&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="-NAwhlw-cG3gBcsxiPQz-3" value="&lt;div&gt;處理螺絲,Nut&lt;/div&gt;&lt;div&gt;拿零件R角&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="55" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-NAwhlw-cG3gBcsxiPQz-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-NAwhlw-cG3gBcsxiPQz-5" target="-NAwhlw-cG3gBcsxiPQz-7" edge="1">
@@ -40,13 +40,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-NAwhlw-cG3gBcsxiPQz-7" value="圖檔爆掉&lt;div&gt;幾千個零件&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="-NAwhlw-cG3gBcsxiPQz-7" value="圖檔爆掉&lt;div&gt;幾千個零件&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="205" y="290" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-NAwhlw-cG3gBcsxiPQz-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-NAwhlw-cG3gBcsxiPQz-9" target="-NAwhlw-cG3gBcsxiPQz-71" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-NAwhlw-cG3gBcsxiPQz-9" value="合併零件&lt;div&gt;suppress 不重要零件&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="-NAwhlw-cG3gBcsxiPQz-9" value="合併零件&lt;div&gt;suppress 不重要零件&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="340" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-NAwhlw-cG3gBcsxiPQz-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="-NAwhlw-cG3gBcsxiPQz-11" target="-NAwhlw-cG3gBcsxiPQz-5" edge="1">
@@ -69,7 +69,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-NAwhlw-cG3gBcsxiPQz-21" value="檢查干涉&lt;div&gt;圖檔凌亂&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="-NAwhlw-cG3gBcsxiPQz-21" value="檢查干涉&lt;div&gt;圖檔凌亂&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="75" y="90" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-NAwhlw-cG3gBcsxiPQz-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="-NAwhlw-cG3gBcsxiPQz-24" target="-NAwhlw-cG3gBcsxiPQz-18" edge="1">
@@ -160,13 +160,13 @@
         <mxCell id="-NAwhlw-cG3gBcsxiPQz-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-NAwhlw-cG3gBcsxiPQz-71" target="-NAwhlw-cG3gBcsxiPQz-74" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-NAwhlw-cG3gBcsxiPQz-71" value="Error零件&lt;div&gt;顯示異常&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="-NAwhlw-cG3gBcsxiPQz-71" value="Error零件&lt;div&gt;顯示異常&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="507" y="290" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-NAwhlw-cG3gBcsxiPQz-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="-NAwhlw-cG3gBcsxiPQz-74" target="-NAwhlw-cG3gBcsxiPQz-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-NAwhlw-cG3gBcsxiPQz-74" value="abaqus修整幾何&lt;div&gt;從Proe換格式匯出&lt;/div&gt;&lt;div&gt;單開.prt檔案匯出&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="-NAwhlw-cG3gBcsxiPQz-74" value="abaqus修整幾何&lt;div&gt;從Proe換格式匯出&lt;/div&gt;&lt;div&gt;單開.prt檔案匯出&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="622" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-NAwhlw-cG3gBcsxiPQz-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-NAwhlw-cG3gBcsxiPQz-78" target="-NAwhlw-cG3gBcsxiPQz-82" edge="1">
