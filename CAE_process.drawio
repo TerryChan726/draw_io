@@ -43,7 +43,7 @@
         <mxCell id="-NAwhlw-cG3gBcsxiPQz-7" value="圖檔爆掉&lt;div&gt;幾千個零件&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="205" y="290" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1L4MWceTh6y_2CvtbCoj-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-NAwhlw-cG3gBcsxiPQz-9" target="1L4MWceTh6y_2CvtbCoj-55">
+        <mxCell id="1L4MWceTh6y_2CvtbCoj-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-NAwhlw-cG3gBcsxiPQz-9" target="1L4MWceTh6y_2CvtbCoj-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-NAwhlw-cG3gBcsxiPQz-9" value="合併零件&lt;div&gt;suppress&amp;nbsp;&lt;/div&gt;&lt;div&gt;不重要零件&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -84,13 +84,13 @@
         <mxCell id="-NAwhlw-cG3gBcsxiPQz-27" value="討論分析條件" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="55" y="-90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1L4MWceTh6y_2CvtbCoj-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-NAwhlw-cG3gBcsxiPQz-30" target="1L4MWceTh6y_2CvtbCoj-12">
+        <mxCell id="1L4MWceTh6y_2CvtbCoj-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-NAwhlw-cG3gBcsxiPQz-30" target="1L4MWceTh6y_2CvtbCoj-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-NAwhlw-cG3gBcsxiPQz-30" value="幾何簡化&lt;div&gt;程式建立Mesh&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="562" y="482" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1L4MWceTh6y_2CvtbCoj-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-NAwhlw-cG3gBcsxiPQz-31" target="-NAwhlw-cG3gBcsxiPQz-33">
+        <mxCell id="1L4MWceTh6y_2CvtbCoj-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="-NAwhlw-cG3gBcsxiPQz-31" target="-NAwhlw-cG3gBcsxiPQz-33" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="785" y="598" />
@@ -169,10 +169,10 @@
         <mxCell id="-NAwhlw-cG3gBcsxiPQz-71" value="Error零件&lt;div&gt;顯示異常&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="582" y="290" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1L4MWceTh6y_2CvtbCoj-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-NAwhlw-cG3gBcsxiPQz-74" target="1L4MWceTh6y_2CvtbCoj-1">
+        <mxCell id="1L4MWceTh6y_2CvtbCoj-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-NAwhlw-cG3gBcsxiPQz-74" target="1L4MWceTh6y_2CvtbCoj-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1L4MWceTh6y_2CvtbCoj-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-NAwhlw-cG3gBcsxiPQz-74" target="-NAwhlw-cG3gBcsxiPQz-30">
+        <mxCell id="1L4MWceTh6y_2CvtbCoj-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="-NAwhlw-cG3gBcsxiPQz-74" target="-NAwhlw-cG3gBcsxiPQz-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-NAwhlw-cG3gBcsxiPQz-74" value="abaqus修整幾何&lt;div&gt;從Proe換格式匯出&lt;/div&gt;&lt;div&gt;單開.prt檔案匯出&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -205,66 +205,71 @@
         <mxCell id="-NAwhlw-cG3gBcsxiPQz-91" value="改跑準靜態" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1035" y="907.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1L4MWceTh6y_2CvtbCoj-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1L4MWceTh6y_2CvtbCoj-1" target="-NAwhlw-cG3gBcsxiPQz-71">
+        <mxCell id="1L4MWceTh6y_2CvtbCoj-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1L4MWceTh6y_2CvtbCoj-1" target="-NAwhlw-cG3gBcsxiPQz-71" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1L4MWceTh6y_2CvtbCoj-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1L4MWceTh6y_2CvtbCoj-1" target="1L4MWceTh6y_2CvtbCoj-4">
+        <mxCell id="1L4MWceTh6y_2CvtbCoj-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1L4MWceTh6y_2CvtbCoj-1" target="1L4MWceTh6y_2CvtbCoj-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1L4MWceTh6y_2CvtbCoj-1" value="嘗試建立2D mesh , 然後用Query Mesh intersction檢查自體干涉,&amp;nbsp;&lt;div&gt;&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;檢查Face&amp;lt;0.01, repair 那種反白的細面&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
+        <mxCell id="1L4MWceTh6y_2CvtbCoj-1" value="嘗試建立2D mesh , 然後用Query Mesh intersction檢查自體干涉,&amp;nbsp;&lt;div&gt;&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;檢查Face&amp;lt;0.01, repair 那種反白的細面&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="664" y="195" width="213" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1L4MWceTh6y_2CvtbCoj-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1L4MWceTh6y_2CvtbCoj-4" target="-NAwhlw-cG3gBcsxiPQz-30">
+        <mxCell id="1L4MWceTh6y_2CvtbCoj-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1L4MWceTh6y_2CvtbCoj-4" target="-NAwhlw-cG3gBcsxiPQz-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1L4MWceTh6y_2CvtbCoj-4" value="修整幾何, copy part feature, 防止程式crash" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
+        <mxCell id="1L4MWceTh6y_2CvtbCoj-4" value="修整幾何, copy part feature, 防止程式crash" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="925" y="195" width="108" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1L4MWceTh6y_2CvtbCoj-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1L4MWceTh6y_2CvtbCoj-12" target="1L4MWceTh6y_2CvtbCoj-18">
+        <mxCell id="1L4MWceTh6y_2CvtbCoj-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="1L4MWceTh6y_2CvtbCoj-12" target="1L4MWceTh6y_2CvtbCoj-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1L4MWceTh6y_2CvtbCoj-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1L4MWceTh6y_2CvtbCoj-12" target="1L4MWceTh6y_2CvtbCoj-49">
+        <mxCell id="uja6GSqQwrFna-BWHkGb-2" value="Failure" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="1L4MWceTh6y_2CvtbCoj-19">
+          <mxGeometry x="-0.4448" y="1" relative="1" as="geometry">
+            <mxPoint x="41" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1L4MWceTh6y_2CvtbCoj-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1L4MWceTh6y_2CvtbCoj-12" target="1L4MWceTh6y_2CvtbCoj-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1L4MWceTh6y_2CvtbCoj-12" value="自動調mesh" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="347" y="472" width="80" height="80" as="geometry" />
+        <mxCell id="uja6GSqQwrFna-BWHkGb-4" value="Sucessful" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="1L4MWceTh6y_2CvtbCoj-50">
+          <mxGeometry x="-0.2795" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="1L4MWceTh6y_2CvtbCoj-18" value="用abaqus 內建 collaspe 0.1 元素&lt;div&gt;自動mesh標準流程&lt;/div&gt;&lt;div&gt;2D -&amp;gt; 3D -&amp;gt; 2D 消除 error mesh&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
-          <mxGeometry x="129" y="672" width="184" height="60" as="geometry" />
+        <mxCell id="1L4MWceTh6y_2CvtbCoj-12" value="自動調mesh" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="340.13" y="472" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1L4MWceTh6y_2CvtbCoj-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1L4MWceTh6y_2CvtbCoj-34" target="-NAwhlw-cG3gBcsxiPQz-31">
+        <mxCell id="1L4MWceTh6y_2CvtbCoj-18" value="用abaqus 內建 collaspe 0.1 元素&lt;div&gt;自動mesh標準流程&lt;/div&gt;&lt;div&gt;2D -&amp;gt; 3D -&amp;gt; 2D 消除 error mesh&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" parent="1" vertex="1">
+          <mxGeometry x="146.75" y="748" width="184" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1L4MWceTh6y_2CvtbCoj-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1L4MWceTh6y_2CvtbCoj-34" target="-NAwhlw-cG3gBcsxiPQz-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1L4MWceTh6y_2CvtbCoj-43" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1L4MWceTh6y_2CvtbCoj-38">
+        <mxCell id="1L4MWceTh6y_2CvtbCoj-43" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1L4MWceTh6y_2CvtbCoj-38" vertex="1" connectable="0">
           <mxGeometry x="-0.1707" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1L4MWceTh6y_2CvtbCoj-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1L4MWceTh6y_2CvtbCoj-34" target="-NAwhlw-cG3gBcsxiPQz-71">
+        <mxCell id="uja6GSqQwrFna-BWHkGb-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1L4MWceTh6y_2CvtbCoj-34" target="1L4MWceTh6y_2CvtbCoj-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1L4MWceTh6y_2CvtbCoj-45" value="No , Move to next part" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1L4MWceTh6y_2CvtbCoj-42">
-          <mxGeometry x="-0.3503" y="-3" relative="1" as="geometry">
-            <mxPoint x="-7" y="3" as="offset" />
-          </mxGeometry>
+        <mxCell id="1L4MWceTh6y_2CvtbCoj-34" value="完成所有零件mesh" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="480" y="549" width="102" height="94" as="geometry" />
         </mxCell>
-        <mxCell id="1L4MWceTh6y_2CvtbCoj-34" value="完成所有零件mesh" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="485" y="551" width="102" height="94" as="geometry" />
-        </mxCell>
-        <mxCell id="1L4MWceTh6y_2CvtbCoj-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1L4MWceTh6y_2CvtbCoj-49" target="1L4MWceTh6y_2CvtbCoj-34">
+        <mxCell id="1L4MWceTh6y_2CvtbCoj-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1L4MWceTh6y_2CvtbCoj-49" target="1L4MWceTh6y_2CvtbCoj-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1L4MWceTh6y_2CvtbCoj-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1L4MWceTh6y_2CvtbCoj-49" target="1L4MWceTh6y_2CvtbCoj-18">
+        <mxCell id="1L4MWceTh6y_2CvtbCoj-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1L4MWceTh6y_2CvtbCoj-49" target="1L4MWceTh6y_2CvtbCoj-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1L4MWceTh6y_2CvtbCoj-49" value="幾何原生mesh,&amp;nbsp;&lt;div&gt;重疊比較差異&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="330.75" y="581" width="112.5" height="97" as="geometry" />
+        <mxCell id="1L4MWceTh6y_2CvtbCoj-49" value="幾何原生mesh,&amp;nbsp;&lt;div&gt;重疊比較差異&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="323.88" y="643.5" width="112.5" height="97" as="geometry" />
         </mxCell>
-        <mxCell id="1L4MWceTh6y_2CvtbCoj-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1L4MWceTh6y_2CvtbCoj-55" target="-NAwhlw-cG3gBcsxiPQz-71">
+        <mxCell id="1L4MWceTh6y_2CvtbCoj-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="1L4MWceTh6y_2CvtbCoj-55" target="-NAwhlw-cG3gBcsxiPQz-71" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1L4MWceTh6y_2CvtbCoj-55" value="大體積零件開始處理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="452" y="301.5" width="69.75" height="57" as="geometry" />
+        <mxCell id="1L4MWceTh6y_2CvtbCoj-55" value="大體積零件開始處理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="467" y="301.5" width="69.75" height="57" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
