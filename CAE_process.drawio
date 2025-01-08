@@ -139,7 +139,7 @@
         <mxCell id="-NAwhlw-cG3gBcsxiPQz-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-NAwhlw-cG3gBcsxiPQz-58" target="-NAwhlw-cG3gBcsxiPQz-60" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-NAwhlw-cG3gBcsxiPQz-58" value="Run Drop Analysis" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="-NAwhlw-cG3gBcsxiPQz-58" value="Run Drop Analysis test" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="765" y="662" width="85" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-NAwhlw-cG3gBcsxiPQz-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-NAwhlw-cG3gBcsxiPQz-60" target="-NAwhlw-cG3gBcsxiPQz-62" edge="1">
@@ -148,16 +148,19 @@
         <mxCell id="-NAwhlw-cG3gBcsxiPQz-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-NAwhlw-cG3gBcsxiPQz-60" target="-NAwhlw-cG3gBcsxiPQz-64" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-NAwhlw-cG3gBcsxiPQz-60" value="檢查變形&lt;div&gt;質量&lt;/div&gt;&lt;div&gt;材料&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="-NAwhlw-cG3gBcsxiPQz-60" value="檢查變形&lt;div&gt;質量&lt;/div&gt;&lt;div&gt;材料&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="893.75" y="647" width="102.5" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="-NAwhlw-cG3gBcsxiPQz-62" value="整理結果&lt;div&gt;出報告&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="uja6GSqQwrFna-BWHkGb-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-NAwhlw-cG3gBcsxiPQz-62" target="uja6GSqQwrFna-BWHkGb-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-NAwhlw-cG3gBcsxiPQz-62" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Run Analysis&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="1035" y="662" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-NAwhlw-cG3gBcsxiPQz-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-NAwhlw-cG3gBcsxiPQz-64" target="-NAwhlw-cG3gBcsxiPQz-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-NAwhlw-cG3gBcsxiPQz-64" value="進行設定調整&lt;div&gt;材料, constraint, ..&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="-NAwhlw-cG3gBcsxiPQz-64" value="進行設定調整&lt;div&gt;材料, constraint, ..&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="885" y="552" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-NAwhlw-cG3gBcsxiPQz-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-NAwhlw-cG3gBcsxiPQz-71" target="-NAwhlw-cG3gBcsxiPQz-42" edge="1">
@@ -182,7 +185,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-NAwhlw-cG3gBcsxiPQz-78" value="Run static Analysis" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="765" y="785" width="85" height="60" as="geometry" />
+          <mxGeometry x="783" y="785" width="85" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-NAwhlw-cG3gBcsxiPQz-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="-NAwhlw-cG3gBcsxiPQz-82" target="-NAwhlw-cG3gBcsxiPQz-62" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -270,6 +273,9 @@
         </mxCell>
         <mxCell id="1L4MWceTh6y_2CvtbCoj-55" value="大體積零件開始處理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="467" y="301.5" width="69.75" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="uja6GSqQwrFna-BWHkGb-5" value="等待時間&lt;div&gt;準備報告templete&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1214" y="662" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
