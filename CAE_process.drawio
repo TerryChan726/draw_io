@@ -294,7 +294,7 @@
         <mxCell id="bjWpNslP9fqNFomSuvw7-1" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;開啟程式包含 放置在右邊 或是工具列上面,&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;不要因為嫌棄畫面太亂, 擋到東西而關掉, 位置要放好, 重複開關很浪費時間 , 所以說程式的GUI不宜太大, 因為會影響放置使用&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;1.快速切換零件 , 切頗面&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;2.Pick suppress , merge , cut ...&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;3.Query window&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;4.Repair edge&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;5.Automesh&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="-316" y="373" width="391" height="221" as="geometry" />
         </mxCell>
-        <mxCell id="Pm8WJmDP1-OXeyv_apWU-6" value="要小心會呼叫Tree 資料結構造成的Crash&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Pm8WJmDP1-OXeyv_apWU-6" value="要小心會呼叫Tree 資料結構造成的Crash&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="-288" y="221" width="282" height="86" as="geometry" />
         </mxCell>
       </root>
