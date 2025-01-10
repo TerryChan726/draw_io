@@ -15,7 +15,7 @@
         <mxCell id="-NAwhlw-cG3gBcsxiPQz-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-NAwhlw-cG3gBcsxiPQz-3" target="-NAwhlw-cG3gBcsxiPQz-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-NAwhlw-cG3gBcsxiPQz-3" value="&lt;div&gt;處理螺絲,Nut&lt;/div&gt;&lt;div&gt;拿零件R角&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="-NAwhlw-cG3gBcsxiPQz-3" value="&lt;div&gt;Proe處理螺絲,Nut&lt;/div&gt;&lt;div&gt;拿零件R角&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="55" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-NAwhlw-cG3gBcsxiPQz-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-NAwhlw-cG3gBcsxiPQz-5" target="-NAwhlw-cG3gBcsxiPQz-7" edge="1">
@@ -302,8 +302,8 @@
         <mxCell id="Pm8WJmDP1-OXeyv_apWU-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;要小心會呼叫Tree 資料結構造成的Crash&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="-288" y="221" width="282" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="EM37hqnCTv_VpbQ3SYWt-1" value="軟才Rubber, sponge 可以留到最後處理, 運用Cut trim 功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="442" y="118" width="120" height="60" as="geometry" />
+        <mxCell id="EM37hqnCTv_VpbQ3SYWt-1" value="合併軟材Rubber, sponge 可以留到最後處理, 運用Cut trim 功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="433.88" y="118" width="136" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
