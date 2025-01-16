@@ -411,9 +411,6 @@
         <mxCell id="CYP66nceOonhv8S_0u0N-5" value="收到圖檔" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="274" y="-305" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CYP66nceOonhv8S_0u0N-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CYP66nceOonhv8S_0u0N-7" target="-NAwhlw-cG3gBcsxiPQz-27">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="CYP66nceOonhv8S_0u0N-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CYP66nceOonhv8S_0u0N-7" target="CYP66nceOonhv8S_0u0N-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
