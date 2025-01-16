@@ -52,7 +52,15 @@
         <mxCell id="-NAwhlw-cG3gBcsxiPQz-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="-NAwhlw-cG3gBcsxiPQz-11" target="-NAwhlw-cG3gBcsxiPQz-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-NAwhlw-cG3gBcsxiPQz-11" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;把曲面關掉 或是 隱藏某些檔案&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="d0MaOTBvtWQpELDMKfqp-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-NAwhlw-cG3gBcsxiPQz-11" target="d0MaOTBvtWQpELDMKfqp-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="189" y="475" />
+              <mxPoint x="189" y="658" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-NAwhlw-cG3gBcsxiPQz-11" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;把曲面關掉 或是 隱藏某些檔案&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="185" y="415" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-NAwhlw-cG3gBcsxiPQz-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-NAwhlw-cG3gBcsxiPQz-18" target="-NAwhlw-cG3gBcsxiPQz-21" edge="1">
@@ -373,6 +381,9 @@
         </mxCell>
         <mxCell id="d0MaOTBvtWQpELDMKfqp-8" value="出報告" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1206.25" y="1196" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d0MaOTBvtWQpELDMKfqp-10" value="&lt;div&gt;PCB asseb 關掉&lt;/div&gt;PCB, EMN, 單獨匯入,&amp;nbsp;&lt;div&gt;merge成一個單獨part&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-68" y="628" width="133" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
