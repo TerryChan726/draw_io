@@ -262,7 +262,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1L4MWceTh6y_2CvtbCoj-12" value="自動調mesh" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="1L4MWceTh6y_2CvtbCoj-12" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;自動調mesh&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="294" y="472" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1L4MWceTh6y_2CvtbCoj-18" value="&lt;div&gt;mesh 脫離幾何&lt;/div&gt;用abaqus 內建 collaspe 0.1 元素&lt;div&gt;自動mesh標準流程&lt;/div&gt;&lt;div&gt;2D -&amp;gt; 3D -&amp;gt; 2D 消除 error mesh&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" parent="1" vertex="1">
@@ -339,7 +339,7 @@
         <mxCell id="EM37hqnCTv_VpbQ3SYWt-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EM37hqnCTv_VpbQ3SYWt-15" target="1L4MWceTh6y_2CvtbCoj-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EM37hqnCTv_VpbQ3SYWt-15" value="Tree功能, 改instance name, 增加group head name" style="whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;" parent="1" vertex="1">
+        <mxCell id="EM37hqnCTv_VpbQ3SYWt-15" value="&lt;b&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Tree&lt;/font&gt;&lt;/b&gt;功能, 改instance name, 增加group head name" style="whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="329" y="300" width="114.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EM37hqnCTv_VpbQ3SYWt-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EM37hqnCTv_VpbQ3SYWt-41" target="-NAwhlw-cG3gBcsxiPQz-60" edge="1">
@@ -365,7 +365,7 @@
         <mxCell id="d0MaOTBvtWQpELDMKfqp-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="d0MaOTBvtWQpELDMKfqp-1" target="d0MaOTBvtWQpELDMKfqp-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d0MaOTBvtWQpELDMKfqp-1" value="建立Displaygroup&amp;nbsp;&lt;div&gt;ex:HSG,PCB,TP...&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="d0MaOTBvtWQpELDMKfqp-1" value="建立&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Displaygroup&lt;/font&gt;&amp;nbsp;&lt;div&gt;ex:HSG,PCB,TP...&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1393" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d0MaOTBvtWQpELDMKfqp-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="d0MaOTBvtWQpELDMKfqp-4" target="uja6GSqQwrFna-BWHkGb-5" edge="1">
