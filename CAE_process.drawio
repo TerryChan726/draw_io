@@ -15,6 +15,9 @@
         <mxCell id="-NAwhlw-cG3gBcsxiPQz-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-NAwhlw-cG3gBcsxiPQz-3" target="-NAwhlw-cG3gBcsxiPQz-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="h0YojWoYMvBIJHFkg1gc-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-NAwhlw-cG3gBcsxiPQz-3" target="h0YojWoYMvBIJHFkg1gc-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-NAwhlw-cG3gBcsxiPQz-3" value="&lt;div&gt;Proe處理螺絲,Nut&lt;/div&gt;&lt;div&gt;拿零件R角&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="55" y="200" width="120" height="60" as="geometry" />
         </mxCell>
@@ -462,6 +465,9 @@
         </mxCell>
         <mxCell id="h0YojWoYMvBIJHFkg1gc-9" value="把造成問題的實體零件hide, 那個零件可以單獨用.xt匯入&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;ex:把Emn關閉, 另外匯入&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-417" y="234" width="153" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="h0YojWoYMvBIJHFkg1gc-25" value="" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-156" y="-40" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
