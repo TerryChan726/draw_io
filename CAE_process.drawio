@@ -460,7 +460,7 @@
         <mxCell id="h0YojWoYMvBIJHFkg1gc-7" value="Tree功能&lt;div&gt;loading work?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-177" y="219" width="92" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="h0YojWoYMvBIJHFkg1gc-9" value="把造成問題的實體零件hide, 那個零件可以單獨用.xt匯入&lt;div&gt;ex:把Emn關閉, 另外匯入&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="h0YojWoYMvBIJHFkg1gc-9" value="把造成問題的實體零件hide, 那個零件可以單獨用.xt匯入&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;ex:把Emn關閉, 另外匯入&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-417" y="234" width="153" height="70" as="geometry" />
         </mxCell>
       </root>
