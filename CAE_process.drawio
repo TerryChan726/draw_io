@@ -628,7 +628,7 @@
         <mxCell id="h0YojWoYMvBIJHFkg1gc-79" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;&lt;b&gt;&quot;&quot;FilterVol&quot;&lt;/b&gt;&lt;/font&gt;尋找體積過的小的零件,suppress" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="539" y="-101" width="153" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h0YojWoYMvBIJHFkg1gc-84" value="&lt;b style=&quot;color: rgb(0, 0, 255); text-align: left;&quot;&gt;&quot;Merge Tree&quot; PCB模組&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="h0YojWoYMvBIJHFkg1gc-84" value="&lt;b style=&quot;color: rgb(0, 0, 255); text-align: left;&quot;&gt;&quot;Merge Tree&quot;&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;PCB模組零件, EX:&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="539" y="-182" width="153" height="60" as="geometry" />
         </mxCell>
       </root>
