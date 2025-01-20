@@ -49,11 +49,6 @@
         <mxCell id="-NAwhlw-cG3gBcsxiPQz-7" value="圖檔爆掉&lt;div&gt;幾千個零件&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="205" y="290" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="EM37hqnCTv_VpbQ3SYWt-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-NAwhlw-cG3gBcsxiPQz-9" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="458" y="218" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="h0YojWoYMvBIJHFkg1gc-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="-NAwhlw-cG3gBcsxiPQz-9" target="h0YojWoYMvBIJHFkg1gc-72" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
