@@ -86,7 +86,7 @@
         <mxCell id="-NAwhlw-cG3gBcsxiPQz-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="-NAwhlw-cG3gBcsxiPQz-24" target="-NAwhlw-cG3gBcsxiPQz-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-NAwhlw-cG3gBcsxiPQz-24" value="&lt;div&gt;切頗面觀察 紅色區域&lt;/div&gt;&lt;div&gt;擷取工具, 截圖整理PPT&lt;/div&gt;請機構重新整理" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="-NAwhlw-cG3gBcsxiPQz-24" value="&lt;div&gt;切頗面觀察 &lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;紅色區域&lt;/font&gt;&lt;/div&gt;&lt;div&gt;擷取工具, 截圖整理PPT&lt;/div&gt;請機構重新整理" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="215" y="100" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-NAwhlw-cG3gBcsxiPQz-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-NAwhlw-cG3gBcsxiPQz-27" target="-NAwhlw-cG3gBcsxiPQz-18" edge="1">
