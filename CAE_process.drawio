@@ -604,8 +604,8 @@
         <mxCell id="h0YojWoYMvBIJHFkg1gc-61" value="力量位移取線&lt;div&gt;是否平滑&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="943.38" y="1266" width="104.25" height="81" as="geometry" />
         </mxCell>
-        <mxCell id="h0YojWoYMvBIJHFkg1gc-72" value="分別先把Nut , Screw全部合併成一個part ,&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;font-weight: bold; color: rgb(0, 0, 255);&quot;&gt;SeperateInstance &lt;/font&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;來進行分群, 其實不分也沒關係, 更容易, 就是紹定一組tie就好, 有特別需求再分就好&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="509" y="-6" width="218" height="63" as="geometry" />
+        <mxCell id="h0YojWoYMvBIJHFkg1gc-72" value="分別先把Nut , Screw &lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;&lt;b&gt;&quot;Merge Tree&quot;&lt;/b&gt;&lt;/font&gt; or &lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;&lt;b&gt;&quot;Merge instance&quot;&lt;/b&gt;&lt;/font&gt; 全部合併成一個part ,&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;font-weight: bold; color: rgb(0, 0, 255);&quot;&gt;SeperateInstance &lt;/font&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;來進行分群, 其實不分也沒關係, 更容易, 就是紹定一組tie就好, 有特別需求再分就好&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="509" y="-6" width="247" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
