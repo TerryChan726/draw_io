@@ -572,7 +572,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="h0YojWoYMvBIJHFkg1gc-61" value="力量位移取線&lt;div&gt;是否平滑&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="h0YojWoYMvBIJHFkg1gc-61" value="力量位移取線&lt;div&gt;是否平滑&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="943.38" y="1266" width="104.25" height="81" as="geometry" />
         </mxCell>
       </root>
