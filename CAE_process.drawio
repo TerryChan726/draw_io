@@ -10,7 +10,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-NAwhlw-cG3gBcsxiPQz-2" value="CAE工作就是這樣, 大部分就是在做浪費時間的事情, 無限循環,完全取決於機構圖檔的乾淨度, 品質度 , 機構的圖越不好, 下面的流程所需要的時間越多, 這流程不管是在緯創還是Google, 我相信都是相同的.!&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;無法100%要求機構按照CAE的格式, 因為他們有自己的考量&lt;/div&gt;&lt;div&gt;這中間的Gap , 就是CAE工程的工作 , 要把ME的圖檔順利轉換成可以分析的過程&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;看起來在簡單的案子 , 開模後的案子, R角都很可怕&lt;/div&gt;&lt;div&gt;也可能都會有以下的流程, 不可以太早舒服和大意&lt;/div&gt;&lt;div&gt;每一份工作都是如此 , 銀行, 公務員....&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;自己的額外study&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="451" y="-492" width="719" height="247" as="geometry" />
+          <mxGeometry x="269" y="-570" width="719" height="247" as="geometry" />
         </mxCell>
         <mxCell id="-NAwhlw-cG3gBcsxiPQz-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-NAwhlw-cG3gBcsxiPQz-3" target="-NAwhlw-cG3gBcsxiPQz-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -653,6 +653,9 @@
         </mxCell>
         <mxCell id="O2tC0hAaCtJEgRoRTF35-6" value="清理圖檔到零件數量--&amp;gt;100個左右" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="462" y="145" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O2tC0hAaCtJEgRoRTF35-11" value="Single Part 使用&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Chage head name&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="539" y="-261" width="233" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
