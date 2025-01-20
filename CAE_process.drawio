@@ -52,6 +52,13 @@
         <mxCell id="EM37hqnCTv_VpbQ3SYWt-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-NAwhlw-cG3gBcsxiPQz-9" target="EM37hqnCTv_VpbQ3SYWt-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="h0YojWoYMvBIJHFkg1gc-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="-NAwhlw-cG3gBcsxiPQz-9" target="h0YojWoYMvBIJHFkg1gc-72">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="386" y="10" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="-NAwhlw-cG3gBcsxiPQz-9" value="合併零件&lt;div&gt;suppress&amp;nbsp;&lt;/div&gt;&lt;div&gt;不重要零件&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="344.12" y="188" width="84.25" height="60" as="geometry" />
         </mxCell>
@@ -582,6 +589,9 @@
         </mxCell>
         <mxCell id="h0YojWoYMvBIJHFkg1gc-61" value="力量位移取線&lt;div&gt;是否平滑&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="943.38" y="1266" width="104.25" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="h0YojWoYMvBIJHFkg1gc-72" value="先把Nut , Screw全部合併成一個part" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="487" y="-4" width="120" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
