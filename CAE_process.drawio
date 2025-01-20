@@ -467,7 +467,7 @@
           <mxGeometry x="-417" y="234" width="153" height="70" as="geometry" />
         </mxCell>
         <mxCell id="h0YojWoYMvBIJHFkg1gc-25" value="處理螺絲很煩, 但是想想比起coupling 好很多了" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-174" y="-40" width="138" height="60" as="geometry" />
+          <mxGeometry x="-112" y="-34" width="138" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
