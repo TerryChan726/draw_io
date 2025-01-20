@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.6">
   <diagram name="第 1 页" id="3Qes5rVlJUNfzLmKB2Mt">
-    <mxGraphModel dx="1832" dy="931" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1832" dy="1331" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-NAwhlw-cG3gBcsxiPQz-2" value="CAE工作就是這樣, 大部分就是在做浪費時間的事情, 無限循環,完全取決於機構圖檔的乾淨度, 品質度 , 機構的圖越不好, 下面的流程所需要的時間越多, 這流程不管是在緯創還是Google, 我相信都是相同的.!&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;無法100%要求機構按照CAE的格式, 因為他們有自己的考量&lt;/div&gt;&lt;div&gt;這中間的Gap , 就是CAE工程的工作 , 要把ME的圖檔順利轉換成可以分析的過程&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;看起來在簡單的案子 , 開模後的案子, R角都很可怕&lt;/div&gt;&lt;div&gt;也可能都會有以下的流程, 不可以太早舒服和大意&lt;/div&gt;&lt;div&gt;每一份工作都是如此 , 銀行, 公務員....&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;自己的額外study&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="458" y="-389" width="719" height="247" as="geometry" />
+          <mxGeometry x="451" y="-492" width="719" height="247" as="geometry" />
         </mxCell>
         <mxCell id="-NAwhlw-cG3gBcsxiPQz-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-NAwhlw-cG3gBcsxiPQz-3" target="-NAwhlw-cG3gBcsxiPQz-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -381,7 +381,7 @@
         <mxCell id="EM37hqnCTv_VpbQ3SYWt-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EM37hqnCTv_VpbQ3SYWt-15" target="1L4MWceTh6y_2CvtbCoj-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EM37hqnCTv_VpbQ3SYWt-15" value="&lt;b&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Tree&lt;/font&gt;&lt;/b&gt;功能, 改instance name, 增加group head name" style="whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;" parent="1" vertex="1">
+        <mxCell id="EM37hqnCTv_VpbQ3SYWt-15" value="&lt;b&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Tree&lt;/font&gt;&lt;/b&gt;功能, 改instance name, 增加group &lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;&lt;b&gt;head name&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="329" y="300" width="114.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EM37hqnCTv_VpbQ3SYWt-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EM37hqnCTv_VpbQ3SYWt-41" target="-NAwhlw-cG3gBcsxiPQz-60" edge="1">
@@ -479,14 +479,20 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h0YojWoYMvBIJHFkg1gc-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h0YojWoYMvBIJHFkg1gc-7" target="EM37hqnCTv_VpbQ3SYWt-15">
+        <mxCell id="h0YojWoYMvBIJHFkg1gc-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="h0YojWoYMvBIJHFkg1gc-7" target="EM37hqnCTv_VpbQ3SYWt-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-131" y="184" />
-              <mxPoint x="298" y="184" />
-              <mxPoint x="298" y="275" />
-              <mxPoint x="386" y="275" />
+              <mxPoint x="-131" y="182" />
+              <mxPoint x="191" y="182" />
+              <mxPoint x="191" y="278" />
+              <mxPoint x="287" y="278" />
+              <mxPoint x="287" y="315" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h0YojWoYMvBIJHFkg1gc-83" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="h0YojWoYMvBIJHFkg1gc-82">
+          <mxGeometry x="-0.9403" relative="1" as="geometry">
+            <mxPoint x="-19" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="h0YojWoYMvBIJHFkg1gc-7" value="Tree功能&lt;div&gt;loading work?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
