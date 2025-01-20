@@ -49,8 +49,10 @@
         <mxCell id="-NAwhlw-cG3gBcsxiPQz-7" value="圖檔爆掉&lt;div&gt;幾千個零件&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="205" y="290" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="EM37hqnCTv_VpbQ3SYWt-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-NAwhlw-cG3gBcsxiPQz-9" target="EM37hqnCTv_VpbQ3SYWt-11" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="EM37hqnCTv_VpbQ3SYWt-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-NAwhlw-cG3gBcsxiPQz-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="458" y="218" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="h0YojWoYMvBIJHFkg1gc-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="-NAwhlw-cG3gBcsxiPQz-9" target="h0YojWoYMvBIJHFkg1gc-72" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -368,16 +370,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EM37hqnCTv_VpbQ3SYWt-5" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;合併軟材Rubber, sponge 可以留到最後處理, 運用Cut trim 功能&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="458" y="92" width="139.88" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="EM37hqnCTv_VpbQ3SYWt-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EM37hqnCTv_VpbQ3SYWt-11" target="EM37hqnCTv_VpbQ3SYWt-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="EM37hqnCTv_VpbQ3SYWt-11" value="FPC +Stiffness合併一起&amp;nbsp;&lt;div&gt;Camera moduls&lt;/div&gt;&lt;div style=&quot;&quot;&gt;sponge, rubber&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;align=left;" parent="1" vertex="1">
-          <mxGeometry x="458" y="188" width="138.88" height="60" as="geometry" />
+          <mxGeometry x="828.75" y="-182" width="139.88" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EM37hqnCTv_VpbQ3SYWt-13" value="確保堆疊方向有維持一致(力量傳遞)" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="656" y="92" width="119.25" height="60" as="geometry" />
+          <mxGeometry x="1026.75" y="-182" width="119.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EM37hqnCTv_VpbQ3SYWt-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="EM37hqnCTv_VpbQ3SYWt-15" target="-NAwhlw-cG3gBcsxiPQz-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -635,7 +631,10 @@
         <mxCell id="h0YojWoYMvBIJHFkg1gc-79" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;&lt;b&gt;&quot;&quot;FilterVol&quot;&lt;/b&gt;&lt;/font&gt;尋找體積過的小的零件,suppress" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="539" y="-101" width="153" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h0YojWoYMvBIJHFkg1gc-84" value="&lt;b style=&quot;color: rgb(0, 0, 255);&quot;&gt;&quot;Merge Tree&quot;&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;PCB模組零件,&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;EX: 電池 , 相機, connector&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Shielding case, ADH, Rubber...&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+        <mxCell id="O2tC0hAaCtJEgRoRTF35-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h0YojWoYMvBIJHFkg1gc-84" target="EM37hqnCTv_VpbQ3SYWt-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h0YojWoYMvBIJHFkg1gc-84" value="&lt;b style=&quot;color: rgb(0, 0, 255);&quot;&gt;&quot;Merge Tree&quot;&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;PCB模組零件,&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;EX: 電池 , 相機, connector&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Shielding case, ADH, Rubber... FPC...&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="539" y="-182" width="244" height="60" as="geometry" />
         </mxCell>
       </root>
