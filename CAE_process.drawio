@@ -483,14 +483,6 @@
         <mxCell id="h0YojWoYMvBIJHFkg1gc-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h0YojWoYMvBIJHFkg1gc-31" target="h0YojWoYMvBIJHFkg1gc-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h0YojWoYMvBIJHFkg1gc-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h0YojWoYMvBIJHFkg1gc-31" target="h0YojWoYMvBIJHFkg1gc-56">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="996" y="1130" />
-              <mxPoint x="1355" y="1130" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="h0YojWoYMvBIJHFkg1gc-31" value="使用Qusi-static M5設定準靜態分析條件...&lt;div&gt;位移速度設定為200 mm/s&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="935.5" y="1052" width="120" height="60" as="geometry" />
         </mxCell>
@@ -498,31 +490,24 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h0YojWoYMvBIJHFkg1gc-33" value="&lt;div&gt;Replace to Static step&lt;/div&gt;&lt;div style=&quot;&quot;&gt;修改amplitude = Ramp&lt;/div&gt;&lt;div style=&quot;&quot;&gt;修改field output=1&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;align=left;" vertex="1" parent="1">
-          <mxGeometry x="935.5" y="1283" width="120" height="60" as="geometry" />
+          <mxGeometry x="935.51" y="1416" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h0YojWoYMvBIJHFkg1gc-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h0YojWoYMvBIJHFkg1gc-35" target="h0YojWoYMvBIJHFkg1gc-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h0YojWoYMvBIJHFkg1gc-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h0YojWoYMvBIJHFkg1gc-35">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1144" y="1424" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="h0YojWoYMvBIJHFkg1gc-43" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="h0YojWoYMvBIJHFkg1gc-40">
-          <mxGeometry x="-0.0167" y="-2" relative="1" as="geometry">
-            <mxPoint x="1" as="offset" />
-          </mxGeometry>
+        <mxCell id="h0YojWoYMvBIJHFkg1gc-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h0YojWoYMvBIJHFkg1gc-35" target="h0YojWoYMvBIJHFkg1gc-50">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h0YojWoYMvBIJHFkg1gc-35" value="分析發散?" style="rhombus;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="955.5" y="1384" width="80" height="80" as="geometry" />
+          <mxGeometry x="955" y="1512" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="h0YojWoYMvBIJHFkg1gc-37" value="修改收斂參數" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="935.5" y="1512" width="120" height="60" as="geometry" />
+          <mxGeometry x="935.5" y="1627" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h0YojWoYMvBIJHFkg1gc-41" value="出報告" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1406.25" y="1056" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h0YojWoYMvBIJHFkg1gc-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h0YojWoYMvBIJHFkg1gc-44" target="h0YojWoYMvBIJHFkg1gc-33">
+        <mxCell id="h0YojWoYMvBIJHFkg1gc-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h0YojWoYMvBIJHFkg1gc-44" target="h0YojWoYMvBIJHFkg1gc-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h0YojWoYMvBIJHFkg1gc-44" value="執行Exlicit分析" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=0;" vertex="1" parent="1">
@@ -530,7 +515,7 @@
         </mxCell>
         <mxCell id="h0YojWoYMvBIJHFkg1gc-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h0YojWoYMvBIJHFkg1gc-50" target="h0YojWoYMvBIJHFkg1gc-52">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1183" y="1321.800048828125" as="targetPoint" />
+            <mxPoint x="1183" y="1436.800048828125" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="h0YojWoYMvBIJHFkg1gc-55" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="h0YojWoYMvBIJHFkg1gc-51">
@@ -547,7 +532,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="h0YojWoYMvBIJHFkg1gc-50" value="差異很大" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1143" y="1384" width="80" height="80" as="geometry" />
+          <mxGeometry x="1146" y="1512" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="h0YojWoYMvBIJHFkg1gc-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="h0YojWoYMvBIJHFkg1gc-52" target="h0YojWoYMvBIJHFkg1gc-44">
           <mxGeometry relative="1" as="geometry">
@@ -557,10 +542,38 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="h0YojWoYMvBIJHFkg1gc-52" value="降低位移速度, 降到25-50為極限" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1123" y="1268.000048828125" width="120" height="60" as="geometry" />
+          <mxGeometry x="1123" y="1383.000048828125" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h0YojWoYMvBIJHFkg1gc-56" value="出報告" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1295" y="1394" width="120" height="60" as="geometry" />
+          <mxGeometry x="1301" y="1522" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h0YojWoYMvBIJHFkg1gc-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h0YojWoYMvBIJHFkg1gc-61" target="h0YojWoYMvBIJHFkg1gc-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h0YojWoYMvBIJHFkg1gc-65" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="h0YojWoYMvBIJHFkg1gc-63">
+          <mxGeometry x="-0.6416" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h0YojWoYMvBIJHFkg1gc-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="h0YojWoYMvBIJHFkg1gc-61" target="h0YojWoYMvBIJHFkg1gc-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h0YojWoYMvBIJHFkg1gc-66" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="h0YojWoYMvBIJHFkg1gc-64">
+          <mxGeometry x="-0.3804" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h0YojWoYMvBIJHFkg1gc-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="h0YojWoYMvBIJHFkg1gc-61" target="h0YojWoYMvBIJHFkg1gc-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="996" y="1379" />
+              <mxPoint x="1086" y="1379" />
+              <mxPoint x="1086" y="1413" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h0YojWoYMvBIJHFkg1gc-61" value="力量位移取線&lt;div&gt;是否平滑&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="943.38" y="1266" width="104.25" height="81" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
