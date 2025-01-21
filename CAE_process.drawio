@@ -531,15 +531,6 @@
         <mxCell id="h0YojWoYMvBIJHFkg1gc-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="h0YojWoYMvBIJHFkg1gc-35" target="h0YojWoYMvBIJHFkg1gc-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h0YojWoYMvBIJHFkg1gc-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="h0YojWoYMvBIJHFkg1gc-35" target="h0YojWoYMvBIJHFkg1gc-52" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="995" y="1598" />
-              <mxPoint x="1079" y="1598" />
-              <mxPoint x="1079" y="1428" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="h0YojWoYMvBIJHFkg1gc-35" value="分析發散?" style="rhombus;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="955" y="1512" width="80" height="80" as="geometry" />
         </mxCell>
