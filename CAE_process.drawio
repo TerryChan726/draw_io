@@ -516,31 +516,11 @@
         <mxCell id="h0YojWoYMvBIJHFkg1gc-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="h0YojWoYMvBIJHFkg1gc-31" target="h0YojWoYMvBIJHFkg1gc-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h0YojWoYMvBIJHFkg1gc-31" value="使用&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;&lt;b&gt;Qusi-static M5&lt;/b&gt;&lt;/font&gt;設定準靜態分析條件...&lt;div&gt;位移速度設定為200 mm/s&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="770.5" y="1163" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="h0YojWoYMvBIJHFkg1gc-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="h0YojWoYMvBIJHFkg1gc-33" target="h0YojWoYMvBIJHFkg1gc-35" edge="1">
+        <mxCell id="LbukZZPB3OAY-k5tTcMo-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h0YojWoYMvBIJHFkg1gc-31" target="LbukZZPB3OAY-k5tTcMo-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h0YojWoYMvBIJHFkg1gc-33" value="&lt;div&gt;Replace to Static step&lt;/div&gt;&lt;div style=&quot;&quot;&gt;修改amplitude = Ramp&lt;/div&gt;&lt;div style=&quot;&quot;&gt;修改field output=1&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;align=left;" parent="1" vertex="1">
-          <mxGeometry x="692.5" y="1730" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="h0YojWoYMvBIJHFkg1gc-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="h0YojWoYMvBIJHFkg1gc-35" target="h0YojWoYMvBIJHFkg1gc-37" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="h0YojWoYMvBIJHFkg1gc-35" value="分析發散?" style="rhombus;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="711.99" y="1826" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="h0YojWoYMvBIJHFkg1gc-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="h0YojWoYMvBIJHFkg1gc-37" target="h0YojWoYMvBIJHFkg1gc-35" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="651.99" y="1971" />
-              <mxPoint x="651.99" y="1866" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="h0YojWoYMvBIJHFkg1gc-37" value="修改收斂參數" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="692.49" y="1941" width="120" height="60" as="geometry" />
+        <mxCell id="h0YojWoYMvBIJHFkg1gc-31" value="使用&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;&lt;b&gt;Qusi-static M5&lt;/b&gt;&lt;/font&gt;設定準靜態分析條件...&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;位移速度設定為200 mm/s&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="760.74" y="1163" width="139.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h0YojWoYMvBIJHFkg1gc-41" value="出報告" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1406.25" y="1056" width="120" height="60" as="geometry" />
@@ -554,7 +534,7 @@
         <mxCell id="LbukZZPB3OAY-k5tTcMo-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h0YojWoYMvBIJHFkg1gc-52" target="s2y8zfbHeh6CzKYKBFLO-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h0YojWoYMvBIJHFkg1gc-52" value="&lt;div&gt;降低速度跑&lt;/div&gt;速度收斂性分析&lt;div&gt;跑v=50 , v=100, V=200&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" parent="1" vertex="1">
+        <mxCell id="h0YojWoYMvBIJHFkg1gc-52" value="&lt;div&gt;降低速度跑&lt;/div&gt;速度收斂性分析&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;跑V=50 , V=100, V=200&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" parent="1" vertex="1">
           <mxGeometry x="770.49" y="1559.000048828125" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h0YojWoYMvBIJHFkg1gc-56" value="出報告" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
@@ -612,7 +592,7 @@
           <mxGeometry x="539" y="-261" width="233" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s2y8zfbHeh6CzKYKBFLO-1" value="答案在不同速度收斂?" style="rhombus;whiteSpace=wrap;html=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="884.13" y="1673" width="92" height="95" as="geometry" />
+          <mxGeometry x="1176" y="1712.5" width="92" height="95" as="geometry" />
         </mxCell>
         <mxCell id="LbukZZPB3OAY-k5tTcMo-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s2y8zfbHeh6CzKYKBFLO-3" target="LbukZZPB3OAY-k5tTcMo-4">
           <mxGeometry relative="1" as="geometry" />
@@ -625,6 +605,54 @@
         </mxCell>
         <mxCell id="LbukZZPB3OAY-k5tTcMo-4" value="觀察收斂性,&lt;div&gt;盡量選擇最短時間,&amp;nbsp;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="1148" y="1559" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LbukZZPB3OAY-k5tTcMo-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LbukZZPB3OAY-k5tTcMo-8" target="LbukZZPB3OAY-k5tTcMo-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LbukZZPB3OAY-k5tTcMo-8" value="行有餘力可以跑靜態驗證" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="970.5" y="1163" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LbukZZPB3OAY-k5tTcMo-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LbukZZPB3OAY-k5tTcMo-11" target="LbukZZPB3OAY-k5tTcMo-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LbukZZPB3OAY-k5tTcMo-11" value="&lt;div&gt;Replace to Static step&lt;/div&gt;&lt;div style=&quot;&quot;&gt;修改amplitude = Ramp&lt;/div&gt;&lt;div style=&quot;&quot;&gt;修改field output=1&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1159.48" y="1163" width="142.52" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LbukZZPB3OAY-k5tTcMo-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LbukZZPB3OAY-k5tTcMo-13" target="LbukZZPB3OAY-k5tTcMo-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LbukZZPB3OAY-k5tTcMo-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LbukZZPB3OAY-k5tTcMo-13" target="LbukZZPB3OAY-k5tTcMo-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LbukZZPB3OAY-k5tTcMo-13" value="分析發散?" style="rhombus;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1190.74" y="1265" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LbukZZPB3OAY-k5tTcMo-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LbukZZPB3OAY-k5tTcMo-15" target="LbukZZPB3OAY-k5tTcMo-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1115" y="1426" />
+              <mxPoint x="1115" y="1305" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LbukZZPB3OAY-k5tTcMo-15" value="修改收斂參數" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1170.74" y="1396" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LbukZZPB3OAY-k5tTcMo-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LbukZZPB3OAY-k5tTcMo-18" target="s2y8zfbHeh6CzKYKBFLO-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1391" y="1490" />
+              <mxPoint x="1006" y="1490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LbukZZPB3OAY-k5tTcMo-21" value="進行曲校比較" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="LbukZZPB3OAY-k5tTcMo-20">
+          <mxGeometry x="0.0793" y="-1" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LbukZZPB3OAY-k5tTcMo-18" value="畫力量位移曲線" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1330.74" y="1275" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
