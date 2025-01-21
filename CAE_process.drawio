@@ -710,6 +710,9 @@
         <mxCell id="Q2LuoIRUt-XklS31bqgI-1" value="分析結果解析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="120" y="60" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="74F0DyiM9221vP94Bqvh-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q2LuoIRUt-XklS31bqgI-2" target="74F0DyiM9221vP94Bqvh-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Q2LuoIRUt-XklS31bqgI-2" value="單一設計" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="320" y="60" width="120" height="60" as="geometry" />
         </mxCell>
@@ -727,6 +730,9 @@
         </mxCell>
         <mxCell id="ZhKaYKsY--HDWQZhvFc4-1" value="準備好報告, 更換報告名稱, 構想報告架構" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="120" y="-70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="74F0DyiM9221vP94Bqvh-2" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="60" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
