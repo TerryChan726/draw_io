@@ -516,9 +516,6 @@
         <mxCell id="h0YojWoYMvBIJHFkg1gc-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="h0YojWoYMvBIJHFkg1gc-31" target="h0YojWoYMvBIJHFkg1gc-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LbukZZPB3OAY-k5tTcMo-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h0YojWoYMvBIJHFkg1gc-31" target="LbukZZPB3OAY-k5tTcMo-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="h0YojWoYMvBIJHFkg1gc-31" value="使用&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;&lt;b&gt;Qusi-static M5&lt;/b&gt;&lt;/font&gt;設定準靜態分析條件...&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;位移速度設定為200 mm/s&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="760.74" y="1163" width="139.5" height="60" as="geometry" />
         </mxCell>
@@ -610,7 +607,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LbukZZPB3OAY-k5tTcMo-8" value="行有餘力可以跑靜態驗證" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="970.5" y="1163" width="120" height="60" as="geometry" />
+          <mxGeometry x="946" y="1163" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LbukZZPB3OAY-k5tTcMo-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LbukZZPB3OAY-k5tTcMo-11" target="LbukZZPB3OAY-k5tTcMo-13">
           <mxGeometry relative="1" as="geometry" />
