@@ -727,8 +727,8 @@
         <mxCell id="Q2LuoIRUt-XklS31bqgI-5" value="多設計比較&lt;div&gt;定性比較&lt;/div&gt;&lt;div&gt;設計變更&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="320" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pfsVvpJGBnY4A8mlaJD1-2" value="切頗面觀察動畫" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="500" y="480" width="120" height="60" as="geometry" />
+        <mxCell id="pfsVvpJGBnY4A8mlaJD1-2" value="切頗面觀察動畫, 比較不同設計" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="670" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="74F0DyiM9221vP94Bqvh-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZhKaYKsY--HDWQZhvFc4-1" target="Q2LuoIRUt-XklS31bqgI-1">
           <mxGeometry relative="1" as="geometry" />
@@ -776,7 +776,7 @@
         <mxCell id="OSEquDRAtaJ4cV7RXxuG-2" value="修改模型重新分析" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="294" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OSEquDRAtaJ4cV7RXxuG-8" value="&lt;font style=&quot;color: rgb(51, 51, 255);&quot;&gt;&lt;b&gt;Pyopen&lt;/b&gt;&lt;/font&gt; 同時打開odb在同一個CAE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OSEquDRAtaJ4cV7RXxuG-8" value="&lt;font style=&quot;color: rgb(51, 51, 255);&quot;&gt;&lt;b&gt;Pyopen&lt;/b&gt;&lt;/font&gt; 同時打開odb在同一個CAE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="480" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
