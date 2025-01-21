@@ -588,26 +588,28 @@
         <mxCell id="O2tC0hAaCtJEgRoRTF35-11" value="Single Part 使用&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Chage head name&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="539" y="-261" width="233" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="s2y8zfbHeh6CzKYKBFLO-1" value="答案在不同速度收斂?" style="rhombus;whiteSpace=wrap;html=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1155" y="1835" width="92" height="95" as="geometry" />
-        </mxCell>
         <mxCell id="LbukZZPB3OAY-k5tTcMo-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s2y8zfbHeh6CzKYKBFLO-3" target="LbukZZPB3OAY-k5tTcMo-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="s2y8zfbHeh6CzKYKBFLO-3" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;&quot;PlotFDCurve&quot;把不同速度.ODB畫出曲線&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;" vertex="1" parent="1">
+        <mxCell id="s2y8zfbHeh6CzKYKBFLO-3" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;&quot;PlotFDCurve&quot;把不同速度.ODB畫出曲線&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="946.01" y="1699" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LbukZZPB3OAY-k5tTcMo-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LbukZZPB3OAY-k5tTcMo-4" target="h0YojWoYMvBIJHFkg1gc-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LbukZZPB3OAY-k5tTcMo-4" value="觀察收斂性,&lt;div&gt;盡量選擇最短時間,&amp;nbsp;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;align=center;" vertex="1" parent="1">
+        <mxCell id="LbukZZPB3OAY-k5tTcMo-4" value="觀察收斂性,&lt;div&gt;盡量選擇最短時間,&amp;nbsp;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="1148.01" y="1699" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LbukZZPB3OAY-k5tTcMo-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LbukZZPB3OAY-k5tTcMo-8" target="LbukZZPB3OAY-k5tTcMo-11">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1081" y="1435" />
+              <mxPoint x="1081" y="1193" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="LbukZZPB3OAY-k5tTcMo-8" value="行有餘力可以跑靜態驗證" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="946" y="1163" width="120" height="60" as="geometry" />
+          <mxGeometry x="925" y="1401.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LbukZZPB3OAY-k5tTcMo-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LbukZZPB3OAY-k5tTcMo-11" target="LbukZZPB3OAY-k5tTcMo-13">
           <mxGeometry relative="1" as="geometry" />
@@ -635,6 +637,19 @@
         <mxCell id="LbukZZPB3OAY-k5tTcMo-15" value="修改收斂參數" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1170.74" y="1396" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="LbukZZPB3OAY-k5tTcMo-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LbukZZPB3OAY-k5tTcMo-18" target="s2y8zfbHeh6CzKYKBFLO-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1391" y="1612" />
+              <mxPoint x="1006" y="1612" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LbukZZPB3OAY-k5tTcMo-31" value="動態靜態曲線比較" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontStyle=0;fontColor=#0000FF;" vertex="1" connectable="0" parent="LbukZZPB3OAY-k5tTcMo-30">
+          <mxGeometry x="0.3129" y="-3" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="LbukZZPB3OAY-k5tTcMo-18" value="畫力量位移曲線" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1330.74" y="1275" width="120" height="60" as="geometry" />
         </mxCell>
@@ -649,7 +664,7 @@
         </mxCell>
         <mxCell id="LbukZZPB3OAY-k5tTcMo-29" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="LbukZZPB3OAY-k5tTcMo-28">
           <mxGeometry x="-0.7872" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="21" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LbukZZPB3OAY-k5tTcMo-23" value="時間充裕?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
