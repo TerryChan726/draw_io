@@ -534,7 +534,10 @@
         <mxCell id="h0YojWoYMvBIJHFkg1gc-52" value="&lt;div&gt;降低速度跑&lt;/div&gt;速度收斂性分析&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;跑V=50 , V=100, V=200&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" parent="1" vertex="1">
           <mxGeometry x="770.5" y="1699.000048828125" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h0YojWoYMvBIJHFkg1gc-56" value="出報告" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="LbukZZPB3OAY-k5tTcMo-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h0YojWoYMvBIJHFkg1gc-56" target="LbukZZPB3OAY-k5tTcMo-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h0YojWoYMvBIJHFkg1gc-56" value="應力,變形檢視" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="1339.01" y="1699" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s2y8zfbHeh6CzKYKBFLO-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="LbukZZPB3OAY-k5tTcMo-23" target="h0YojWoYMvBIJHFkg1gc-52">
@@ -669,6 +672,15 @@
         </mxCell>
         <mxCell id="LbukZZPB3OAY-k5tTcMo-23" value="時間充裕?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="790.49" y="1543" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LbukZZPB3OAY-k5tTcMo-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LbukZZPB3OAY-k5tTcMo-33" target="LbukZZPB3OAY-k5tTcMo-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LbukZZPB3OAY-k5tTcMo-33" value="網格需要加密?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1556" y="1681.5" width="116.99" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="LbukZZPB3OAY-k5tTcMo-35" value="出報告" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1554.495" y="1836" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
