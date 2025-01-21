@@ -622,8 +622,17 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Q2LuoIRUt-XklS31bqgI-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q2LuoIRUt-XklS31bqgI-1" target="Q2LuoIRUt-XklS31bqgI-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Q2LuoIRUt-XklS31bqgI-1" value="分析結果解析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q2LuoIRUt-XklS31bqgI-2" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q2LuoIRUt-XklS31bqgI-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
