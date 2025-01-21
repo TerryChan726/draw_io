@@ -699,6 +699,14 @@
         <mxCell id="Q2LuoIRUt-XklS31bqgI-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q2LuoIRUt-XklS31bqgI-1" target="Q2LuoIRUt-XklS31bqgI-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="pfsVvpJGBnY4A8mlaJD1-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q2LuoIRUt-XklS31bqgI-1" target="Q2LuoIRUt-XklS31bqgI-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="90" />
+              <mxPoint x="260" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Q2LuoIRUt-XklS31bqgI-1" value="分析結果解析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="60" width="120" height="60" as="geometry" />
         </mxCell>
@@ -706,7 +714,7 @@
           <mxGeometry x="320" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q2LuoIRUt-XklS31bqgI-5" value="多設計比較" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
