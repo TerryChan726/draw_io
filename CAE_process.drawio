@@ -790,7 +790,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FXrQbKtNxNIsBUHIbD24-1" value="前期評估" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mFEOjWi3mcQ68YSlsUqS-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FXrQbKtNxNIsBUHIbD24-1" target="mFEOjWi3mcQ68YSlsUqS-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FXrQbKtNxNIsBUHIbD24-1" value="前期評估" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="190" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YAXOM6pffUV5H-C1uTAo-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YAXOM6pffUV5H-C1uTAo-1" target="FXrQbKtNxNIsBUHIbD24-1">
@@ -809,6 +812,21 @@
         </mxCell>
         <mxCell id="YAXOM6pffUV5H-C1uTAo-3" value="量產後issue solve" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mFEOjWi3mcQ68YSlsUqS-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mFEOjWi3mcQ68YSlsUqS-1" target="mFEOjWi3mcQ68YSlsUqS-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mFEOjWi3mcQ68YSlsUqS-1" value="建立模型&lt;div&gt;流程參考SOP&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="390" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mFEOjWi3mcQ68YSlsUqS-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mFEOjWi3mcQ68YSlsUqS-3" target="mFEOjWi3mcQ68YSlsUqS-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mFEOjWi3mcQ68YSlsUqS-3" value="&lt;div&gt;檢查結果&lt;/div&gt;解析報告" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mFEOjWi3mcQ68YSlsUqS-7" value="中高風險零件風險判斷&lt;div&gt;&amp;nbsp;&amp;amp; 修改建議方向...&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="575" y="270" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
