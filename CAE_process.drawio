@@ -828,8 +828,13 @@
         <mxCell id="mFEOjWi3mcQ68YSlsUqS-3" value="&lt;span style=&quot;&quot;&gt;建立模型&lt;/span&gt;&lt;div style=&quot;&quot;&gt;流程參考SOP&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="687" y="130" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mFEOjWi3mcQ68YSlsUqS-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mFEOjWi3mcQ68YSlsUqS-7" target="mFEOjWi3mcQ68YSlsUqS-20">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="my5dBTJ8jaNx87Z4GbEv-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mFEOjWi3mcQ68YSlsUqS-7" target="mFEOjWi3mcQ68YSlsUqS-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="752" y="460" />
+              <mxPoint x="560" y="460" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="mFEOjWi3mcQ68YSlsUqS-7" value="中高風險零件風險判斷&lt;div&gt;&amp;nbsp;&amp;amp; 修改建議方向...&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="677" y="240" width="150" height="60" as="geometry" />
@@ -859,7 +864,10 @@
         <mxCell id="mFEOjWi3mcQ68YSlsUqS-11" value="設計比較效果" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="515" y="730" width="90" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="mFEOjWi3mcQ68YSlsUqS-13" value="出報告, problem solved" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;" vertex="1" parent="1">
+        <mxCell id="my5dBTJ8jaNx87Z4GbEv-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mFEOjWi3mcQ68YSlsUqS-13" target="my5dBTJ8jaNx87Z4GbEv-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mFEOjWi3mcQ68YSlsUqS-13" value="製作報告, problem solved" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="500" y="900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mFEOjWi3mcQ68YSlsUqS-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mFEOjWi3mcQ68YSlsUqS-15" target="mFEOjWi3mcQ68YSlsUqS-23">
@@ -871,9 +879,6 @@
         </mxCell>
         <mxCell id="mFEOjWi3mcQ68YSlsUqS-15" value="ME討論New 方案&lt;div&gt;CAE自提方案&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="750" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="mFEOjWi3mcQ68YSlsUqS-20" value="&lt;div&gt;檢查結果&lt;/div&gt;執行分析" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="692" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mFEOjWi3mcQ68YSlsUqS-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YAXOM6pffUV5H-C1uTAo-3" target="mFEOjWi3mcQ68YSlsUqS-25">
           <mxGeometry relative="1" as="geometry">
@@ -937,6 +942,9 @@
         </mxCell>
         <mxCell id="my5dBTJ8jaNx87Z4GbEv-6" value="修正邊界條件, 材料..." style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="687" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="my5dBTJ8jaNx87Z4GbEv-12" value="寫Email , 簡述結果" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
