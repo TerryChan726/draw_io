@@ -241,9 +241,9 @@
         <mxCell id="-NAwhlw-cG3gBcsxiPQz-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-NAwhlw-cG3gBcsxiPQz-71" target="-NAwhlw-cG3gBcsxiPQz-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Pm8WJmDP1-OXeyv_apWU-5" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" parent="-NAwhlw-cG3gBcsxiPQz-73" vertex="1" connectable="0">
+        <mxCell id="Pm8WJmDP1-OXeyv_apWU-5" value="Pass" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" parent="-NAwhlw-cG3gBcsxiPQz-73" vertex="1" connectable="0">
           <mxGeometry x="0.2533" y="4" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="17" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-NAwhlw-cG3gBcsxiPQz-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-NAwhlw-cG3gBcsxiPQz-71" target="-NAwhlw-cG3gBcsxiPQz-74" edge="1">
