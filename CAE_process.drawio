@@ -786,15 +786,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="o_WhWys2NMgtvB2vV9Et" name="問題解決">
-    <mxGraphModel dx="1032" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1859" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="mFEOjWi3mcQ68YSlsUqS-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FXrQbKtNxNIsBUHIbD24-1" target="mFEOjWi3mcQ68YSlsUqS-1">
+        <mxCell id="mFEOjWi3mcQ68YSlsUqS-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mFEOjWi3mcQ68YSlsUqS-27" target="mFEOjWi3mcQ68YSlsUqS-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FXrQbKtNxNIsBUHIbD24-1" value="前期評估" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="190" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="130" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YAXOM6pffUV5H-C1uTAo-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YAXOM6pffUV5H-C1uTAo-1" target="FXrQbKtNxNIsBUHIbD24-1">
           <mxGeometry relative="1" as="geometry" />
@@ -802,25 +802,25 @@
         <mxCell id="YAXOM6pffUV5H-C1uTAo-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YAXOM6pffUV5H-C1uTAo-1" target="YAXOM6pffUV5H-C1uTAo-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="140" y="160" />
-              <mxPoint x="140" y="270" />
+              <mxPoint x="80" y="160" />
+              <mxPoint x="80" y="270" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="YAXOM6pffUV5H-C1uTAo-1" value="模擬需求分類" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="10" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="-80" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mFEOjWi3mcQ68YSlsUqS-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mFEOjWi3mcQ68YSlsUqS-25" target="mFEOjWi3mcQ68YSlsUqS-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YAXOM6pffUV5H-C1uTAo-3" value="量產後issue solve" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="170" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="130" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mFEOjWi3mcQ68YSlsUqS-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mFEOjWi3mcQ68YSlsUqS-1" target="mFEOjWi3mcQ68YSlsUqS-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mFEOjWi3mcQ68YSlsUqS-1" value="建立模型&lt;div&gt;流程參考SOP&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="390" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mFEOjWi3mcQ68YSlsUqS-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mFEOjWi3mcQ68YSlsUqS-3" target="mFEOjWi3mcQ68YSlsUqS-7">
           <mxGeometry relative="1" as="geometry" />
@@ -885,7 +885,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mFEOjWi3mcQ68YSlsUqS-25" value="Teams開會討論&lt;div&gt;確實了解狀況&lt;/div&gt;&lt;div&gt;檢視圖檔 , 照片, 實品&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="340" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mFEOjWi3mcQ68YSlsUqS-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FXrQbKtNxNIsBUHIbD24-1" target="mFEOjWi3mcQ68YSlsUqS-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="160" as="sourcePoint" />
+            <mxPoint x="500" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mFEOjWi3mcQ68YSlsUqS-27" value="Teams開會討論&lt;div&gt;確實了解設計圖檔&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="310" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
