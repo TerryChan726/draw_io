@@ -869,7 +869,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mFEOjWi3mcQ68YSlsUqS-15" value="ME討論New 方案&lt;div&gt;CAE自提方案&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
+        <mxCell id="mFEOjWi3mcQ68YSlsUqS-15" value="ME討論New 方案&lt;div&gt;CAE自提方案&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mFEOjWi3mcQ68YSlsUqS-20" value="&lt;div&gt;檢查結果&lt;/div&gt;解析報告" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;" vertex="1" parent="1">
