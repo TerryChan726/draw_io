@@ -819,13 +819,13 @@
         <mxCell id="mFEOjWi3mcQ68YSlsUqS-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mFEOjWi3mcQ68YSlsUqS-1" target="mFEOjWi3mcQ68YSlsUqS-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mFEOjWi3mcQ68YSlsUqS-1" value="建立模型&lt;div&gt;流程參考SOP&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="mFEOjWi3mcQ68YSlsUqS-1" value="&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;詢問ME本身的擔憂&lt;/span&gt;&lt;br style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;設計者的經驗考量&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="500" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mFEOjWi3mcQ68YSlsUqS-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mFEOjWi3mcQ68YSlsUqS-3" target="mFEOjWi3mcQ68YSlsUqS-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mFEOjWi3mcQ68YSlsUqS-3" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;詢問ME本身的擔憂&lt;br&gt;設計者的經驗考量&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=0;align=left;" vertex="1" parent="1">
+        <mxCell id="mFEOjWi3mcQ68YSlsUqS-3" value="&lt;span style=&quot;&quot;&gt;建立模型&lt;/span&gt;&lt;div style=&quot;&quot;&gt;流程參考SOP&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="687" y="130" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mFEOjWi3mcQ68YSlsUqS-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mFEOjWi3mcQ68YSlsUqS-7" target="mFEOjWi3mcQ68YSlsUqS-20">
@@ -837,7 +837,7 @@
         <mxCell id="mFEOjWi3mcQ68YSlsUqS-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mFEOjWi3mcQ68YSlsUqS-23" target="mFEOjWi3mcQ68YSlsUqS-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mFEOjWi3mcQ68YSlsUqS-9" value="&lt;div&gt;建立模型&lt;div&gt;流程參考SOP&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=0;" vertex="1" parent="1">
+        <mxCell id="mFEOjWi3mcQ68YSlsUqS-9" value="&lt;div&gt;建立模型&lt;div&gt;流程參考SOP&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="500" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mFEOjWi3mcQ68YSlsUqS-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mFEOjWi3mcQ68YSlsUqS-11" target="mFEOjWi3mcQ68YSlsUqS-13">
@@ -899,7 +899,7 @@
             <mxPoint x="570" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mFEOjWi3mcQ68YSlsUqS-29" value="機構提出方案&lt;div&gt;CAE自提方案&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="mFEOjWi3mcQ68YSlsUqS-29" value="機構提出方案&lt;div&gt;CAE自提方案&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="500" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mFEOjWi3mcQ68YSlsUqS-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mFEOjWi3mcQ68YSlsUqS-9" target="mFEOjWi3mcQ68YSlsUqS-23">
