@@ -149,7 +149,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-NAwhlw-cG3gBcsxiPQz-31" value="改instance名子-&amp;gt;&lt;div&gt;Partname, 名子不能太長, Tie會error&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="645" y="568" width="120" height="60" as="geometry" />
+          <mxGeometry x="645" y="575" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-NAwhlw-cG3gBcsxiPQz-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="-NAwhlw-cG3gBcsxiPQz-42" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -335,11 +335,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uja6GSqQwrFna-BWHkGb-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="1L4MWceTh6y_2CvtbCoj-34" target="1L4MWceTh6y_2CvtbCoj-55" edge="1">
+        <mxCell id="uja6GSqQwrFna-BWHkGb-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="kd_xp62n2o6V_G3wPQXQ-1" target="1L4MWceTh6y_2CvtbCoj-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1L4MWceTh6y_2CvtbCoj-34" value="完成所有零件mesh" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="480" y="549" width="102" height="94" as="geometry" />
+          <mxGeometry x="471" y="556" width="102" height="94" as="geometry" />
         </mxCell>
         <mxCell id="1L4MWceTh6y_2CvtbCoj-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1L4MWceTh6y_2CvtbCoj-49" target="1L4MWceTh6y_2CvtbCoj-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -364,9 +364,6 @@
         </mxCell>
         <mxCell id="kd_xp62n2o6V_G3wPQXQ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kd_xp62n2o6V_G3wPQXQ-1" target="1L4MWceTh6y_2CvtbCoj-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="kd_xp62n2o6V_G3wPQXQ-1" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;&lt;b&gt;*RepairEdgeTable*&lt;/b&gt;&lt;/font&gt;&lt;div&gt;辨識 移除 seed 特徵&lt;div&gt;R角/C角/園孔/小邊..&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" parent="1" vertex="1">
-          <mxGeometry x="412" y="489.88" width="163" height="44.25" as="geometry" />
         </mxCell>
         <mxCell id="bjWpNslP9fqNFomSuvw7-1" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;開啟程式包含 放置在右邊 或是工具列上面,&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;不要因為嫌棄畫面太亂, 擋到東西而關掉, 位置要放好, 重複開關很浪費時間 , 所以說程式的GUI不宜太大, 因為會影響放置使用&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;1.快速切換零件 , 切頗面&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;2.Pick suppress , merge , cut ...&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;3.Query window&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;4.Repair edge&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;5.Automesh&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="-365" y="378" width="391" height="221" as="geometry" />
@@ -692,6 +689,15 @@
         </mxCell>
         <mxCell id="LbukZZPB3OAY-k5tTcMo-40" value="分析結果是否合理&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1574" y="1818" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="k6aPIWEecup2agCKspbl-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1L4MWceTh6y_2CvtbCoj-34" target="kd_xp62n2o6V_G3wPQXQ-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="531" y="549" as="sourcePoint" />
+            <mxPoint x="522" y="359" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kd_xp62n2o6V_G3wPQXQ-1" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;&lt;b&gt;*RepairEdgeTable*&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;b&gt;程式辨識 Boss C/R ,&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;整圈&lt;/span&gt;&lt;/b&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;R, 單R角, 小圓孔, 小邊,小面&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;" parent="1" vertex="1">
+          <mxGeometry x="410" y="480.44" width="172" height="63.12" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
