@@ -249,6 +249,11 @@
         <mxCell id="-NAwhlw-cG3gBcsxiPQz-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-NAwhlw-cG3gBcsxiPQz-71" target="-NAwhlw-cG3gBcsxiPQz-74" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="k6aPIWEecup2agCKspbl-1" value="Error" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="-NAwhlw-cG3gBcsxiPQz-75">
+          <mxGeometry x="-0.2742" y="-3" relative="1" as="geometry">
+            <mxPoint y="13" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="-NAwhlw-cG3gBcsxiPQz-71" value="Error零件&lt;div&gt;顯示異常&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="582" y="290" width="80" height="80" as="geometry" />
         </mxCell>
