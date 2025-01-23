@@ -348,7 +348,7 @@
         <mxCell id="1L4MWceTh6y_2CvtbCoj-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="1L4MWceTh6y_2CvtbCoj-55" target="-NAwhlw-cG3gBcsxiPQz-71" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1L4MWceTh6y_2CvtbCoj-55" value="大體積零件開始處理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="1L4MWceTh6y_2CvtbCoj-55" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;&quot;FilterVol&quot;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;大體積零件開始處理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="487" y="301.5" width="69.75" height="57" as="geometry" />
         </mxCell>
         <mxCell id="EM37hqnCTv_VpbQ3SYWt-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="uja6GSqQwrFna-BWHkGb-5" target="EM37hqnCTv_VpbQ3SYWt-46" edge="1">
