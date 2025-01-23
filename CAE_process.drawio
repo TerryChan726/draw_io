@@ -160,7 +160,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-NAwhlw-cG3gBcsxiPQz-33" value="材料定義&lt;div&gt;constraint , Tie&lt;/div&gt;&lt;div&gt;調整Tie Gap&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="487" y="662" width="120" height="60" as="geometry" />
+          <mxGeometry x="487" y="681.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-NAwhlw-cG3gBcsxiPQz-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="-NAwhlw-cG3gBcsxiPQz-35" target="-NAwhlw-cG3gBcsxiPQz-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -185,7 +185,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-NAwhlw-cG3gBcsxiPQz-35" value="Datacheck" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="652" y="652" width="80" height="80" as="geometry" />
+          <mxGeometry x="645" y="652" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Pm8WJmDP1-OXeyv_apWU-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-NAwhlw-cG3gBcsxiPQz-42" target="bjWpNslP9fqNFomSuvw7-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -339,7 +339,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1L4MWceTh6y_2CvtbCoj-34" value="完成所有零件mesh" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="471" y="556" width="102" height="94" as="geometry" />
+          <mxGeometry x="445" y="568" width="102" height="94" as="geometry" />
         </mxCell>
         <mxCell id="1L4MWceTh6y_2CvtbCoj-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1L4MWceTh6y_2CvtbCoj-49" target="1L4MWceTh6y_2CvtbCoj-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
