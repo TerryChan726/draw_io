@@ -96,8 +96,8 @@
         <mxCell id="d0MaOTBvtWQpELDMKfqp-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="-NAwhlw-cG3gBcsxiPQz-11" target="d0MaOTBvtWQpELDMKfqp-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="189" y="475" />
-              <mxPoint x="189" y="658" />
+              <mxPoint x="94" y="475" />
+              <mxPoint x="94" y="658" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -314,7 +314,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1L4MWceTh6y_2CvtbCoj-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1L4MWceTh6y_2CvtbCoj-12" target="1L4MWceTh6y_2CvtbCoj-49" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="195" y="692" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="uja6GSqQwrFna-BWHkGb-4" value="Sucessful" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" parent="1L4MWceTh6y_2CvtbCoj-50" vertex="1" connectable="0">
           <mxGeometry x="-0.2795" y="-3" relative="1" as="geometry">
@@ -322,10 +326,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1L4MWceTh6y_2CvtbCoj-12" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;自動調mesh&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="294" y="472" width="80" height="80" as="geometry" />
+          <mxGeometry x="155" y="512" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1L4MWceTh6y_2CvtbCoj-18" value="&lt;div&gt;mesh 脫離幾何&lt;/div&gt;用abaqus 內建 collaspe 0.1 元素&lt;div&gt;自動mesh標準流程&lt;/div&gt;&lt;div&gt;2D -&amp;gt; 3D -&amp;gt; 2D 消除 error mesh&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" parent="1" vertex="1">
-          <mxGeometry x="129" y="779" width="184" height="60" as="geometry" />
+          <mxGeometry x="43" y="778" width="184" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1L4MWceTh6y_2CvtbCoj-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1L4MWceTh6y_2CvtbCoj-34" target="-NAwhlw-cG3gBcsxiPQz-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
