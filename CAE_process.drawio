@@ -878,8 +878,10 @@
         <mxCell id="mFEOjWi3mcQ68YSlsUqS-9" value="&lt;div&gt;建立模型&lt;div&gt;流程參考SOP&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="500" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mFEOjWi3mcQ68YSlsUqS-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mFEOjWi3mcQ68YSlsUqS-11" target="mFEOjWi3mcQ68YSlsUqS-13" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="mFEOjWi3mcQ68YSlsUqS-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mFEOjWi3mcQ68YSlsUqS-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="880" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="mFEOjWi3mcQ68YSlsUqS-17" value="有效果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="mFEOjWi3mcQ68YSlsUqS-14" vertex="1" connectable="0">
           <mxGeometry x="-0.228" y="1" relative="1" as="geometry">
@@ -896,9 +898,6 @@
         </mxCell>
         <mxCell id="mFEOjWi3mcQ68YSlsUqS-11" value="設計比較效果" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="515" y="730" width="90" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="mFEOjWi3mcQ68YSlsUqS-13" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;貼變形動畫, 應力動畫, 排版,視角 文字,風險判定, 抓數值,&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;align=left;" parent="1" vertex="1">
-          <mxGeometry x="450" y="880" width="220" height="110" as="geometry" />
         </mxCell>
         <mxCell id="mFEOjWi3mcQ68YSlsUqS-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="mFEOjWi3mcQ68YSlsUqS-15" target="mFEOjWi3mcQ68YSlsUqS-23" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -976,8 +975,8 @@
         <mxCell id="my5dBTJ8jaNx87Z4GbEv-12" value="寫Email , 簡述結果" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="190" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yORD7ICn1BrOHDpo4q1--1" value="" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="500" y="1030" width="120" height="60" as="geometry" />
+        <mxCell id="yORD7ICn1BrOHDpo4q1--1" value="&lt;b style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; font-size: 16px;&quot;&gt;貼變形動畫&lt;/b&gt;&lt;br style=&quot;&quot;&gt;&lt;b style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; font-size: 16px;&quot;&gt;應力動畫&lt;/b&gt;&lt;br style=&quot;&quot;&gt;&lt;b style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; font-size: 16px;&quot;&gt;排版,視角&amp;nbsp;&lt;/b&gt;&lt;br style=&quot;&quot;&gt;&lt;b style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; font-size: 16px;&quot;&gt;文字,風險判定&amp;nbsp;&lt;/b&gt;&lt;br style=&quot;&quot;&gt;&lt;b style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; font-size: 16px;&quot;&gt;抓數值&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;align=left;" vertex="1" parent="1">
+          <mxGeometry x="500" y="890" width="160" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
