@@ -975,8 +975,14 @@
         <mxCell id="my5dBTJ8jaNx87Z4GbEv-12" value="寫Email , 簡述結果" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="190" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yORD7ICn1BrOHDpo4q1--1" value="&lt;b style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; font-size: 16px;&quot;&gt;貼變形動畫&lt;/b&gt;&lt;br style=&quot;&quot;&gt;&lt;b style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; font-size: 16px;&quot;&gt;應力動畫&lt;/b&gt;&lt;br style=&quot;&quot;&gt;&lt;b style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; font-size: 16px;&quot;&gt;排版,視角&amp;nbsp;&lt;/b&gt;&lt;br style=&quot;&quot;&gt;&lt;b style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; font-size: 16px;&quot;&gt;文字,風險判定&amp;nbsp;&lt;/b&gt;&lt;br style=&quot;&quot;&gt;&lt;b style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; font-size: 16px;&quot;&gt;抓數值&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;align=left;" vertex="1" parent="1">
-          <mxGeometry x="500" y="890" width="160" height="120" as="geometry" />
+        <mxCell id="yORD7ICn1BrOHDpo4q1--1" value="&lt;ol&gt;&lt;li&gt;&lt;b style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; font-size: 16px;&quot;&gt;貼變形動畫&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; font-size: 16px;&quot;&gt;應力動畫&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; font-size: 16px;&quot;&gt;排版,視角&amp;nbsp;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; font-size: 16px;&quot;&gt;文字,風險判定&amp;nbsp;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; font-size: 16px;&quot;&gt;抓數值&lt;/b&gt;&lt;/li&gt;&lt;/ol&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;align=left;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1000" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yORD7ICn1BrOHDpo4q1--3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yORD7ICn1BrOHDpo4q1--2" target="yORD7ICn1BrOHDpo4q1--1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yORD7ICn1BrOHDpo4q1--2" value="確認有效, 報告製作" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="500" y="880" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
