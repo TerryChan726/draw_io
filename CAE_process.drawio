@@ -898,10 +898,14 @@
           <mxGeometry x="515" y="730" width="90" height="100" as="geometry" />
         </mxCell>
         <mxCell id="my5dBTJ8jaNx87Z4GbEv-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mFEOjWi3mcQ68YSlsUqS-13" target="my5dBTJ8jaNx87Z4GbEv-12" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="1010" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="mFEOjWi3mcQ68YSlsUqS-13" value="製作報告, problem solved" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="500" y="900" width="120" height="60" as="geometry" />
+        <mxCell id="mFEOjWi3mcQ68YSlsUqS-13" value="貼變形動畫, 硬力動畫,&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="500" y="880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mFEOjWi3mcQ68YSlsUqS-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="mFEOjWi3mcQ68YSlsUqS-15" target="mFEOjWi3mcQ68YSlsUqS-23" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -977,7 +981,10 @@
           <mxGeometry x="687" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="my5dBTJ8jaNx87Z4GbEv-12" value="寫Email , 簡述結果" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="500" y="1010" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yORD7ICn1BrOHDpo4q1--1" value="" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="980" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
