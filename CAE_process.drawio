@@ -718,7 +718,7 @@
         <mxCell id="k6aPIWEecup2agCKspbl-4" value="&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Seed 圓孔&lt;/font&gt;, 生成mesh&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="277.75" y="578" width="94" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="rR4BlKe7QrPGqBU3vZM--1" value="加密局部布點&lt;b&gt;Seed edge,Face&lt;/b&gt;&lt;div&gt;用select 的方式去框選, 這招很好用, 尤其是global size比較大的時候 , 用到2常常有這種問題&lt;/div&gt;&lt;div&gt;局部Seed Size可以用到&lt;b&gt;1&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="rR4BlKe7QrPGqBU3vZM--1" value="加密局部布點&lt;b&gt;Seed edge,Face&lt;/b&gt;&lt;div&gt;用select 的方式去框選, 這招很好用, 尤其是global size比較大的時候 , 用到2常常有這種問題&lt;/div&gt;&lt;div&gt;局部Seed Size可以用到&lt;b&gt;1&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-297" y="766" width="215" height="84" as="geometry" />
         </mxCell>
       </root>
