@@ -729,6 +729,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="z9gvXlVnDGqbMeOkKRVc-3" value="Shielding case:&amp;nbsp;&lt;div&gt;先把shielding case R角拿掉&lt;div&gt;然後運用 &quot; Extrude&quot; 直接在Assembly 往下長 , 建立實體&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="70" y="110" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z9gvXlVnDGqbMeOkKRVc-4" value="EMN 元件簡化:&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
