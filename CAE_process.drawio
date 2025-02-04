@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.7" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.10" pages="3">
   <diagram name="建模流程" id="3Qes5rVlJUNfzLmKB2Mt">
     <mxGraphModel dx="1832" dy="1331" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -328,7 +328,7 @@
         <mxCell id="1L4MWceTh6y_2CvtbCoj-12" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;自動調mesh&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="155" y="512" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="rR4BlKe7QrPGqBU3vZM--2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1L4MWceTh6y_2CvtbCoj-18" target="rR4BlKe7QrPGqBU3vZM--1">
+        <mxCell id="rR4BlKe7QrPGqBU3vZM--2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1L4MWceTh6y_2CvtbCoj-18" target="rR4BlKe7QrPGqBU3vZM--1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1L4MWceTh6y_2CvtbCoj-18" value="&lt;div&gt;mesh 脫離幾何&lt;/div&gt;用abaqus 內建 collaspe 0.1 元素&lt;div&gt;自動mesh標準流程&lt;/div&gt;&lt;div&gt;2D -&amp;gt; 3D -&amp;gt; 2D 消除 error mesh&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" parent="1" vertex="1">
@@ -345,7 +345,7 @@
         <mxCell id="uja6GSqQwrFna-BWHkGb-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="kd_xp62n2o6V_G3wPQXQ-1" target="1L4MWceTh6y_2CvtbCoj-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1L4MWceTh6y_2CvtbCoj-34" value="完成所有零件mesh" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="1L4MWceTh6y_2CvtbCoj-34" value="完成所有零件mesh" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="445" y="568" width="102" height="94" as="geometry" />
         </mxCell>
         <mxCell id="1L4MWceTh6y_2CvtbCoj-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1L4MWceTh6y_2CvtbCoj-49" target="1L4MWceTh6y_2CvtbCoj-34" edge="1">
@@ -718,7 +718,7 @@
         <mxCell id="k6aPIWEecup2agCKspbl-4" value="&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Seed 圓孔&lt;/font&gt;, 生成mesh&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="277.75" y="578" width="94" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="rR4BlKe7QrPGqBU3vZM--1" value="加密局部布點&lt;b&gt;Seed edge,Face&lt;/b&gt;&lt;div&gt;用select 的方式去框選, 這招很好用, 尤其是global size比較大的時候 , 用到2常常有這種問題&lt;/div&gt;&lt;div&gt;局部Seed Size可以用到&lt;b&gt;1&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="rR4BlKe7QrPGqBU3vZM--1" value="加密局部布點&lt;b&gt;Seed edge,Face&lt;/b&gt;&lt;div&gt;用select 的方式去框選, 這招很好用, 尤其是global size比較大的時候 , 用到2常常有這種問題&lt;/div&gt;&lt;div&gt;局部Seed Size可以用到&lt;b&gt;1&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-297" y="766" width="215" height="84" as="geometry" />
         </mxCell>
       </root>
