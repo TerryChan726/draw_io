@@ -786,7 +786,10 @@
         <mxCell id="ZhKaYKsY--HDWQZhvFc4-1" value="&lt;div&gt;開啟新報告, 思考要看那些零件,建立&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;ＤＧ&lt;/font&gt;&lt;/div&gt;準備好報告, 更換報告名稱, 構想報告架構" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="120" y="-70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="74F0DyiM9221vP94Bqvh-2" value="" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="GC5xWk9taMNWxBut5cTM-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="74F0DyiM9221vP94Bqvh-2" target="GC5xWk9taMNWxBut5cTM-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="74F0DyiM9221vP94Bqvh-2" value="前期風險評估&lt;div&gt;未知的題目／風險&lt;/div&gt;&lt;div&gt;思考機構的需求&lt;/div&gt;&lt;div&gt;加碼, 自己看到的結果&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="520" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="74F0DyiM9221vP94Bqvh-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Q2LuoIRUt-XklS31bqgI-5" target="74F0DyiM9221vP94Bqvh-4" edge="1">
@@ -831,6 +834,9 @@
         </mxCell>
         <mxCell id="A90RycFLhC-xjNzlQXjC-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="670" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GC5xWk9taMNWxBut5cTM-1" value="HSG/ TP / PCB 基本款" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="60" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
