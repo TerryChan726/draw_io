@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11" pages="5">
   <diagram name="General 建模流程" id="3Qes5rVlJUNfzLmKB2Mt">
-    <mxGraphModel dx="1832" dy="1331" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1836" dy="1331" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -230,7 +230,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-NAwhlw-cG3gBcsxiPQz-62" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;檢查空間是否足夠&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;6面落摔至少需要200G&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1200.8700000000001" y="800" width="130.75" height="60" as="geometry" />
+          <mxGeometry x="1180.0000000000002" y="800" width="130.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-NAwhlw-cG3gBcsxiPQz-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-NAwhlw-cG3gBcsxiPQz-64" target="-NAwhlw-cG3gBcsxiPQz-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -416,8 +416,8 @@
         <mxCell id="d0MaOTBvtWQpELDMKfqp-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="d0MaOTBvtWQpELDMKfqp-1" target="d0MaOTBvtWQpELDMKfqp-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d0MaOTBvtWQpELDMKfqp-1" value="建立&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Displaygroup&lt;/font&gt;&amp;nbsp;&lt;div&gt;ex:HSG,PCB,TP...&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="1393" y="800" width="120" height="60" as="geometry" />
+        <mxCell id="d0MaOTBvtWQpELDMKfqp-1" value="&lt;div&gt;使用&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;&quot;AutoPaste&quot;&lt;/font&gt;的&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Part Material&lt;/font&gt; 看材料,還有決定那些零件要&lt;/div&gt;建立&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;Displaygroup&lt;/font&gt;&amp;nbsp;,,確保沒有遺漏重要零件!&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ex:HSG,PCB,TP...&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" parent="1" vertex="1">
+          <mxGeometry x="1359.13" y="792" width="188.87" height="76" as="geometry" />
         </mxCell>
         <mxCell id="d0MaOTBvtWQpELDMKfqp-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="d0MaOTBvtWQpELDMKfqp-4" target="uja6GSqQwrFna-BWHkGb-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
