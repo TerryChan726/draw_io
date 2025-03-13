@@ -1025,7 +1025,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ELVNsxc61TrCin2BXGfm" name="幾何處理問題">
-    <mxGraphModel dx="1050" dy="1647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1877" dy="1647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1062,8 +1062,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3Zhw0mmTa74L0gDvR3MB-1" value="&lt;div&gt;&lt;div&gt;處理slingshot 補面的時候 我發現用尤其藥補曲面的時候&lt;/div&gt;&lt;/div&gt;&lt;div&gt;用現有工具很難做到&amp;nbsp; 先把麵刪除再用 stich 似乎容易很多!&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="10" y="180" width="370" height="70" as="geometry" />
+        <mxCell id="3Zhw0mmTa74L0gDvR3MB-1" value="&lt;div&gt;&lt;div&gt;處理slingshot 補面的時候 我發現用尤其藥補曲面的時候&lt;/div&gt;&lt;/div&gt;&lt;div&gt;用現有工具很難做到&amp;nbsp; 先把麵刪除再用 stich 似乎容易很多!&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;當幾何太過複雜 用到error 最好compress出新的part&lt;/div&gt;&lt;div&gt;error常常就會消失了!&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="90" width="370" height="250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
