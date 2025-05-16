@@ -36,23 +36,39 @@
         <mxCell id="WBBpHmCB1Vfj12WouCdX-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WBBpHmCB1Vfj12WouCdX-15" target="WBBpHmCB1Vfj12WouCdX-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WBBpHmCB1Vfj12WouCdX-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WBBpHmCB1Vfj12WouCdX-15" target="WBBpHmCB1Vfj12WouCdX-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="WBBpHmCB1Vfj12WouCdX-15" value="持續沒案子, 都寫study" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WBBpHmCB1Vfj12WouCdX-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WBBpHmCB1Vfj12WouCdX-17" target="WBBpHmCB1Vfj12WouCdX-11">
+        <mxCell id="WBBpHmCB1Vfj12WouCdX-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WBBpHmCB1Vfj12WouCdX-17" target="WBBpHmCB1Vfj12WouCdX-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WBBpHmCB1Vfj12WouCdX-17" value="資遣" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="WBBpHmCB1Vfj12WouCdX-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WBBpHmCB1Vfj12WouCdX-17" target="WBBpHmCB1Vfj12WouCdX-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WBBpHmCB1Vfj12WouCdX-17" value="人力review, 一併檢討" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WBBpHmCB1Vfj12WouCdX-19" value="內轉,公司server單位" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="650" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WBBpHmCB1Vfj12WouCdX-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WBBpHmCB1Vfj12WouCdX-21" target="WBBpHmCB1Vfj12WouCdX-30">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WBBpHmCB1Vfj12WouCdX-21" value="新案子,進來,危機解除" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="-130" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="-80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WBBpHmCB1Vfj12WouCdX-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WBBpHmCB1Vfj12WouCdX-25" target="WBBpHmCB1Vfj12WouCdX-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WBBpHmCB1Vfj12WouCdX-25" value="被資遣" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WBBpHmCB1Vfj12WouCdX-30" value="繼續每天5.下班,度過2025危機" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="-80" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
