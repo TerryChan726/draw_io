@@ -27,6 +27,9 @@
         <mxCell id="WBBpHmCB1Vfj12WouCdX-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WBBpHmCB1Vfj12WouCdX-13" target="WBBpHmCB1Vfj12WouCdX-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="WBBpHmCB1Vfj12WouCdX-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WBBpHmCB1Vfj12WouCdX-13" target="WBBpHmCB1Vfj12WouCdX-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WBBpHmCB1Vfj12WouCdX-13" value="有案子就坐, 沒案子就study" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="40" width="120" height="60" as="geometry" />
         </mxCell>
@@ -44,6 +47,9 @@
         </mxCell>
         <mxCell id="WBBpHmCB1Vfj12WouCdX-19" value="資遣" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="650" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WBBpHmCB1Vfj12WouCdX-21" value="新案子,進來,危機解除" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
