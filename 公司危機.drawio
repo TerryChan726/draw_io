@@ -51,7 +51,7 @@
         <mxCell id="WBBpHmCB1Vfj12WouCdX-17" value="人力review, 一併檢討" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WBBpHmCB1Vfj12WouCdX-19" value="內轉,公司server單位&lt;div&gt;不同軟體, 重新學,&amp;nbsp;&lt;/div&gt;&lt;div&gt;保留福利和假&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="WBBpHmCB1Vfj12WouCdX-19" value="7月以後的事情,&lt;div&gt;內轉,公司server單位&lt;div&gt;不同軟體, 重新學,&amp;nbsp;&lt;/div&gt;&lt;div&gt;保留福利和假&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="640" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WBBpHmCB1Vfj12WouCdX-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WBBpHmCB1Vfj12WouCdX-21" target="WBBpHmCB1Vfj12WouCdX-30">
@@ -85,7 +85,7 @@
         <mxCell id="WBBpHmCB1Vfj12WouCdX-38" value="和碩,緯穎,華碩server&lt;div&gt;缺很多, 表示這是現在正夯的賽道,都是我覺得還不錯的缺&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="55" y="480" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WBBpHmCB1Vfj12WouCdX-42" value="在家好好休息, 等待機會" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="WBBpHmCB1Vfj12WouCdX-42" value="在家好好休息, 等待機會" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="270" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WBBpHmCB1Vfj12WouCdX-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WBBpHmCB1Vfj12WouCdX-46" target="WBBpHmCB1Vfj12WouCdX-42">
@@ -105,10 +105,10 @@
         <mxCell id="WBBpHmCB1Vfj12WouCdX-52" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="370" y="490" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WBBpHmCB1Vfj12WouCdX-53" value="面試, 錄取, 上班應該是2個月後,9月" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WBBpHmCB1Vfj12WouCdX-53" value="面試, 錄取, 上班應該是2個月後,9月" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="450" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WBBpHmCB1Vfj12WouCdX-54" value="面試, 錄取, 上班應該是2個月後,7月" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WBBpHmCB1Vfj12WouCdX-54" value="面試, 錄取, 上班應該是2個月後,7月" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="70" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
