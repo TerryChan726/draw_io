@@ -48,7 +48,7 @@
         <mxCell id="WBBpHmCB1Vfj12WouCdX-17" value="人力review, 一併檢討" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WBBpHmCB1Vfj12WouCdX-19" value="內轉,公司server單位" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="WBBpHmCB1Vfj12WouCdX-19" value="內轉,公司server單位&lt;div&gt;不同軟體, 重新學,&amp;nbsp;&lt;/div&gt;&lt;div&gt;保留福利和假&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="640" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WBBpHmCB1Vfj12WouCdX-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WBBpHmCB1Vfj12WouCdX-21" target="WBBpHmCB1Vfj12WouCdX-30">
