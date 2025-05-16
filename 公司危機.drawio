@@ -68,7 +68,13 @@
           <mxGeometry x="270" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WBBpHmCB1Vfj12WouCdX-30" value="繼續每天5.下班,度過2025危機" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="-80" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="-80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WBBpHmCB1Vfj12WouCdX-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WBBpHmCB1Vfj12WouCdX-32" target="WBBpHmCB1Vfj12WouCdX-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WBBpHmCB1Vfj12WouCdX-32" value="工廠被客訴, 良率差, 要結束合作關係" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-80" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
