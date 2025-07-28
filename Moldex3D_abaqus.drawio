@@ -13,14 +13,14 @@
         <mxCell id="Ezzkr58mJztJ-Z06ZL8k-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ezzkr58mJztJ-Z06ZL8k-3" target="Ezzkr58mJztJ-Z06ZL8k-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ezzkr58mJztJ-Z06ZL8k-3" value="CAD幾何繪製" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#D5E8D4;" vertex="1" parent="1">
+        <mxCell id="Ezzkr58mJztJ-Z06ZL8k-3" value="CAD幾何繪製" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="380" y="100" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ezzkr58mJztJ-Z06ZL8k-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ezzkr58mJztJ-Z06ZL8k-5" target="Ezzkr58mJztJ-Z06ZL8k-7">
+        <mxCell id="Ezzkr58mJztJ-Z06ZL8k-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ezzkr58mJztJ-Z06ZL8k-5" target="Ezzkr58mJztJ-Z06ZL8k-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ezzkr58mJztJ-Z06ZL8k-5" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Abaqus建立網格&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;-用於模流分析 &amp;amp; 結構&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="352.5" y="280" width="155" height="60" as="geometry" />
+          <mxGeometry x="352.5" y="280" width="155" height="43" as="geometry" />
         </mxCell>
         <mxCell id="Ezzkr58mJztJ-Z06ZL8k-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ezzkr58mJztJ-Z06ZL8k-7" target="Ezzkr58mJztJ-Z06ZL8k-12">
           <mxGeometry relative="1" as="geometry" />
@@ -28,14 +28,14 @@
         <mxCell id="Ezzkr58mJztJ-Z06ZL8k-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ezzkr58mJztJ-Z06ZL8k-7" target="Ezzkr58mJztJ-Z06ZL8k-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ezzkr58mJztJ-Z06ZL8k-7" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Moldex3D 模流分析&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;-設定澆口, 材料, 成型參數&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;-充填, 飽壓, 翹曲分析..&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;-計算纖維配向&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="352.5" y="370" width="155" height="60" as="geometry" />
+        <mxCell id="Ezzkr58mJztJ-Z06ZL8k-7" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Moldex3D 模流分析&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;-設定澆口, 材料, 成型參數&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;-充填, 保壓, 翹曲分析..&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;-纖維配向分析&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="352.5" y="361" width="155" height="69" as="geometry" />
         </mxCell>
         <mxCell id="Ezzkr58mJztJ-Z06ZL8k-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ezzkr58mJztJ-Z06ZL8k-12" target="Ezzkr58mJztJ-Z06ZL8k-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ezzkr58mJztJ-Z06ZL8k-12" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Moldex3D 輸出FEA&lt;/span&gt;&lt;/div&gt;&lt;div&gt;-頻率分析,&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;材料簡化,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;-結合線弱化定義&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="351.25" y="470" width="157.5" height="60" as="geometry" />
+          <mxGeometry x="351.25" y="465" width="157.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ezzkr58mJztJ-Z06ZL8k-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ezzkr58mJztJ-Z06ZL8k-13" target="Ezzkr58mJztJ-Z06ZL8k-15">
           <mxGeometry relative="1" as="geometry" />
@@ -43,11 +43,11 @@
         <mxCell id="Ezzkr58mJztJ-Z06ZL8k-13" value="&lt;div style=&quot;&quot;&gt;Abaqus結構分析&lt;/div&gt;&lt;div&gt;-定義邊界條件, 接觸, 負載&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;-靜態分析, 動態分析&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="351.25" y="560" width="157.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ezzkr58mJztJ-Z06ZL8k-15" value="&lt;div style=&quot;&quot;&gt;Abaqus求解與受處理&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;-應力應變檢視&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;-結合線區域確認&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="Ezzkr58mJztJ-Z06ZL8k-15" value="&lt;div style=&quot;&quot;&gt;Abaqus求解與後處理&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;-應力應變檢視&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;-結合線區域確認&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;-報告彙整 &amp;amp; 改善建議&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="351.25" y="650" width="157.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ezzkr58mJztJ-Z06ZL8k-19" value="模流結果確認&lt;div style=&quot;text-align: left;&quot;&gt;-短射,結合線,進澆壓力&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;-壓力損失, 翹曲變形..&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="370" width="130" height="60" as="geometry" />
+          <mxGeometry x="560" y="365.5" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ezzkr58mJztJ-Z06ZL8k-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Ezzkr58mJztJ-Z06ZL8k-19" target="Ezzkr58mJztJ-Z06ZL8k-3">
           <mxGeometry relative="1" as="geometry">
