@@ -16,8 +16,14 @@
         <mxCell id="Ezzkr58mJztJ-Z06ZL8k-3" value="CAD幾何繪製" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="380" y="100" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ezzkr58mJztJ-Z06ZL8k-5" value="Abaqus建立網格&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="Ezzkr58mJztJ-Z06ZL8k-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ezzkr58mJztJ-Z06ZL8k-5" target="Ezzkr58mJztJ-Z06ZL8k-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ezzkr58mJztJ-Z06ZL8k-5" value="Abaqus建立網格&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;-用於模流分析 &amp;amp; 結構&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="352.5" y="290" width="155" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ezzkr58mJztJ-Z06ZL8k-7" value="Moldex3D 模流分析&lt;div&gt;-&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="352.5" y="390" width="155" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
