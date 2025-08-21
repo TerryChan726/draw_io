@@ -730,7 +730,7 @@
         <mxCell id="aPNg_nKLk8BN1V2FVeOt-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aPNg_nKLk8BN1V2FVeOt-2" target="aPNg_nKLk8BN1V2FVeOt-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aPNg_nKLk8BN1V2FVeOt-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;競爭, 自尊, 不服輸&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="aPNg_nKLk8BN1V2FVeOt-2" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;獅子自尊心&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;競爭, 不服輸&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-325" y="939" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aPNg_nKLk8BN1V2FVeOt-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aPNg_nKLk8BN1V2FVeOt-4" target="aPNg_nKLk8BN1V2FVeOt-6">
