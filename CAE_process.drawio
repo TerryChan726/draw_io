@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.1.0" pages="6">
   <diagram name="General 建模流程" id="3Qes5rVlJUNfzLmKB2Mt">
-    <mxGraphModel dx="1842" dy="1361" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2026" dy="1460" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -751,23 +751,17 @@
         <mxCell id="aPNg_nKLk8BN1V2FVeOt-12" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;開始執行計畫&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;學習新技術和知識&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="178" y="1207" width="165" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aPNg_nKLk8BN1V2FVeOt-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aPNg_nKLk8BN1V2FVeOt-19" target="aPNg_nKLk8BN1V2FVeOt-21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="aPNg_nKLk8BN1V2FVeOt-19" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;解決問題&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;報告整理&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="201" y="1544" width="119" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="aPNg_nKLk8BN1V2FVeOt-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aPNg_nKLk8BN1V2FVeOt-21" target="aPNg_nKLk8BN1V2FVeOt-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aPNg_nKLk8BN1V2FVeOt-21" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;高層報告分享&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="6" y="1544" width="119" height="60" as="geometry" />
+        <mxCell id="aPNg_nKLk8BN1V2FVeOt-21" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;報告整理&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;高層報告分享&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="17" y="1568.5" width="119" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aPNg_nKLk8BN1V2FVeOt-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aPNg_nKLk8BN1V2FVeOt-23" target="aPNg_nKLk8BN1V2FVeOt-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aPNg_nKLk8BN1V2FVeOt-23" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;獲得認可, 成就感&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="1544" width="119" height="60" as="geometry" />
+          <mxGeometry x="-160" y="1568.5" width="119" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aPNg_nKLk8BN1V2FVeOt-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="aPNg_nKLk8BN1V2FVeOt-28" target="aPNg_nKLk8BN1V2FVeOt-2">
           <mxGeometry relative="1" as="geometry" />
@@ -781,7 +775,7 @@
         <mxCell id="aPNg_nKLk8BN1V2FVeOt-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aPNg_nKLk8BN1V2FVeOt-32" target="aPNg_nKLk8BN1V2FVeOt-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aPNg_nKLk8BN1V2FVeOt-32" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;遭遇困難&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="aPNg_nKLk8BN1V2FVeOt-32" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;遭遇困難&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;問題解析&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="178" y="1315" width="165" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aPNg_nKLk8BN1V2FVeOt-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aPNg_nKLk8BN1V2FVeOt-38" target="aPNg_nKLk8BN1V2FVeOt-2">
@@ -805,17 +799,17 @@
         <mxCell id="aPNg_nKLk8BN1V2FVeOt-47" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;No&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-111" y="1152" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aPNg_nKLk8BN1V2FVeOt-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aPNg_nKLk8BN1V2FVeOt-48" target="aPNg_nKLk8BN1V2FVeOt-19">
+        <mxCell id="aPNg_nKLk8BN1V2FVeOt-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aPNg_nKLk8BN1V2FVeOt-48" target="aPNg_nKLk8BN1V2FVeOt-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aPNg_nKLk8BN1V2FVeOt-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aPNg_nKLk8BN1V2FVeOt-48" target="aPNg_nKLk8BN1V2FVeOt-61">
+        <mxCell id="aPNg_nKLk8BN1V2FVeOt-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aPNg_nKLk8BN1V2FVeOt-48" target="aPNg_nKLk8BN1V2FVeOt-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aPNg_nKLk8BN1V2FVeOt-48" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;發現問題&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;制定計畫&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="215" y="1408" width="91.5" height="99" as="geometry" />
         </mxCell>
         <mxCell id="aPNg_nKLk8BN1V2FVeOt-53" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Yes&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="1507" width="60" height="30" as="geometry" />
+          <mxGeometry x="266" y="1510" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aPNg_nKLk8BN1V2FVeOt-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aPNg_nKLk8BN1V2FVeOt-61" target="aPNg_nKLk8BN1V2FVeOt-32">
           <mxGeometry relative="1" as="geometry">
@@ -826,6 +820,18 @@
         </mxCell>
         <mxCell id="aPNg_nKLk8BN1V2FVeOt-61" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;沮喪, 痛苦&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="364" y="1427.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aPNg_nKLk8BN1V2FVeOt-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aPNg_nKLk8BN1V2FVeOt-67" target="aPNg_nKLk8BN1V2FVeOt-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aPNg_nKLk8BN1V2FVeOt-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="aPNg_nKLk8BN1V2FVeOt-67" target="aPNg_nKLk8BN1V2FVeOt-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aPNg_nKLk8BN1V2FVeOt-67" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;解決問題&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="215" y="1549" width="91.5" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="aPNg_nKLk8BN1V2FVeOt-71" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;No&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="329" y="1566" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
